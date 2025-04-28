@@ -9,7 +9,7 @@ import IntroHeader from './components/IntroHeader';
 import TeamSearch from './components/TeamSearch';
 import teamsJson from "./components/teams.json"
 
-var URL = "software_fair.png";
+var URL = "software_fair_2025.png";
 
 export default function Home() {
   const [selectedTeam, setSelectedTeam] = useState(null);

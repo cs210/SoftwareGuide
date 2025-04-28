@@ -25,7 +25,7 @@ export default function Icon() {
           color: 'white',
         }}
       >
-        2024
+        2025
       </div>
     ),
     // ImageResponse options

@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "2024 Software Fair",
+  title: "2025 Software Fair",
   description: "Stanford CS Software Fair",
 };
 
