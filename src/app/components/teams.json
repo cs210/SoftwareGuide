@@ -1,852 +1,157 @@
 [
     {
-        "teamName": "Andrea Liao",
+        "teamName": "Audience Aware",
         "teamNum": "1.a",
-        "description": "Genealogy app for students learning history!",
+        "description": "Audience Aware aims to give educators real-time insights into their audience by detecting  when students raise their hands, providing  engagement metrics at a glance, and even enabling in-class polls only using student\u2019s gestures. This gives lecturers immediate feedback, helps them respond to questions more efficiently, and allows them to tailor their teaching to the room\u2019s actual dynamics.",
         "categories": [
             "Education",
-            "Games"
+            "AI"
         ],
-        "teamMembers": "Andrea Liao",
-        "sectionNum": 6
+        "teamMembers": "Anushka, Kyle, Ben, Julian, Gustavo ",
+        "sectionNum": 0
     },
     {
-        "teamName": "August",
+        "teamName": "EduAlly",
         "teamNum": "1.b",
-        "description": "AUGUST is a new mystery game that uses LLM-backed dialogue trees to create a more immersive gameplay experience. During the early hours of December 9th, 2023, a 28-year-old ace detective is mysteriously found dead in a park. The police chief is saying it\u2019s suicide\u2026 but is the case really so simple? You\u2019re the investigator now\u2014talk freely with townspeople (with an innovative new system that blends LLM technology and handcrafted dialogue), uncover clues, and answer the question: what really happened to August Laurier?\n\nAll writing, artwork, animation, and programming were done by myself! ",
+        "description": "EduAlly is a lightweight AI course assistant designed to help students stay connected to lectures\u2014whether they\u2019re in the room or catching up later. By integrating lecture slides, transcripts, and live audio, EduAlly enables students to privately ask course-specific questions and get reliable answers grounded in actual class content. Built for accessibility, privacy, and clarity, EduAlly supports real-time and post-lecture review, helping students learn at their own pace while giving instructors insights into where students are struggling, all without disrupting the flow of teaching.",
         "categories": [
-            "Games",
+            "Education",
             "AI"
         ],
-        "teamMembers": "Michelle Fu",
+        "teamMembers": "Cameron Krouch, Yahaya Ndutu, Robert DiDonato, Felix Zhan, Andrew Wu",
         "sectionNum": 0
     },
     {
-        "teamName": "Lines and Letters",
-        "teamNum": "2",
-        "description": "Lines and Letters is an opportunity to take your word creation skills to the next level! The Lines and Letters web application is a word game that can be played against friends or against the computer. The game has two phases. In the first phase, players compete to capture letters on a board. On a single turn, a player can draw a line on the board, and if that player\u2019s line completes a box around a letter, they have captured that letter! The first phase ends after all letters on the board are claimed. In the second phase, each player must create different words with the letters that they have captured. Longer words score more points! At the end of the game, the player with the most points wins! Invite a few friends, and play today!",
+        "teamName": "Team 12",
+        "teamNum": "2.a",
+        "description": "Tracy",
         "categories": [
-            "Games"
-        ],
-        "teamMembers": "Peyton Lee, Serena Kravantka, Osose Ewaleifoh, Brandon Ring, Sajel Galhotra",
-        "sectionNum": 8
-    },
-    {
-        "teamName": "Stellar Surveillance",
-        "teamNum": "3",
-        "description": "Embark on a thrilling intergalactic adventure as an alien explorer on a mission to gather data on diverse species across various galaxies. Your journey is fraught with danger, as hostile enemies constantly threaten your ship. Defend yourself with the help of loyal creatures, fighting off attackers to secure precious materials. Use these resources to buy enhanced defenses, recruit additional creatures, and unlock powerful upgrades.\n\nYour ship features a state-of-the-art generator powering an advanced incubator. Hatch new creatures from collected eggs or experiment by combining eggs to create unique hybrids with enhanced abilities. These new allies are crucial in your battle to protect your ship and complete your research.\n\nStrategically manage resources, evolve your defenses, and harness the power of your creatures to become the ultimate alien explorer. The success of your mission\u2014and the fate of your galaxy\u2014rests in your hands!",
-        "categories": [
-            "Games"
-        ],
-        "teamMembers": "Michael Granado, Shruti Sridhar, Oluseyi Ogundipe, Peter De La Cruz",
-        "sectionNum": 8
-    },
-    {
-        "teamName": "Quad Contest",
-        "teamNum": "4",
-        "description": "For CS 194W, our team created \u201cQuad Contest,\u201d a top-down 2D roguelike that centers on a Stanford student trying to survive an onslaught of Berkeley Bears in Main Quad. It is a wave based game, with the difficulty of the game increasing with more bears that get quicker. The player can defend by throwing eggs at the bears and dodging to evade. Once the player is finally caught by a bear, their final score is calculated based on how long the player survived. This project has been a great learning experience in game design, Unity, and C#, and our main goal for the past project was to get a proof-of-concept and test out some mechanics to see what we would\u2019ve liked to continue with.",
-        "categories": [
-            "Games"
-        ],
-        "teamMembers": "Calvin Laughlin, Peter Ling, Abe Yosef, Whayden Dhamcho",
-        "sectionNum": 8
-    },
-    {
-        "teamName": "Sternfahrt",
-        "teamNum": "5",
-        "description": "DriveAhead is a meeting assistant designed specifically for Mercedes drivers who have multiple meetings with new people during the day. While driving to work, the user can interact with the voice-enabled assistant to prepare for their upcoming meetings. The assistant links to the user's calendar to get a list of meetings and attendees, scraping LinkedIn data for those attendees. DriveAhead also has access to Wikipedia and can actively search LinkedIn for more people if prompted by the user.\nThe driver can ask questions about meeting topics, attendee backgrounds, and potential connections they may have based on their own LinkedIn profile data (e.g. same university). After the meeting prep, DriveAhead emails a summary to the user for future reference.\nThe DriveAhead product is hosted on Streamlit, where the user can type queries and receive text responses, or use voice input/output. The core value proposition is providing meeting intelligence and prep while taking advantage of drive time.",
-        "categories": [
-            "Automotive",
-            "Business/Office",
+            "Education",
             "Productivity",
+            "Social Good",
             "AI"
         ],
-        "teamMembers": "Daniel Lee, Yubin Jee, Jian Xu, Ellie Yang",
+        "teamMembers": "5",
         "sectionNum": 0
     },
     {
-        "teamName": "Mercedes Kart",
-        "teamNum": "7",
-        "description": "MercedesKart is launching Waymate, a LLM/Vision-model-powered parking sign interpreter and road sign translator. It offers real time road sign translation from eight languages to the user\u2019s preferred language. Sign translations and interpretations will be displayed on the heads-up display so the driver can keep their eyes on the road; for our prototype, we have implemented our system in an iPad app. Additionally, the app features automatic detection and interpretation of parking signs, informing users whether and for how long they can park based on the current time.\n\nWaymate targets those driving in a place where they can\u2019t read the native language. Although Google Maps can provide navigation instructions, being able to recognize physical signs adds another layer of confidence. Waymate also takes the guesswork out of interpreting parking signs, which can be costly and frustrating.",
-        "categories": [
-            "Automotive",
-            "AI"
-        ],
-        "teamMembers": "Sharon Cheng, Natalie Greenfield, Annie Ma, Brendon Matusch, Uche Ochuba ",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Krrish Chawla",
-        "teamNum": "8.a",
-        "description": "The accurate identification and localization of signal sources is crucial in defense applications, as it enables airborne agents to make informed decisions and respond effectively to potential threats. However, the presence of noise in received signals and the computational constraints of airborne platforms pose significant challenges in achieving reliable signal denoising, classification, and direction of arrival estimation. My research presents a new approach for the same in airborne defense agents. The proposed system combines a lightweight CNN-LSTM classifier and a class-agnostic UNet-based diffusion model for denoising. The denoiser operates on a single timestep, effectively removing noise while preserving essential signal features. The denoised signal is then accurately classified, even in low signal-to-noise ratio (SNR) conditions. Further, the Multiple Signal Classification (MUSIC) algorithm is employed for DOA estimation. The system offers a robust solution for signal identification and localization in defense applications, enhancing the capabilities of airborne agents in challenging environments.",
-        "categories": [
-            "Research",
-            "Security",
-            "AI"
-        ],
-        "teamMembers": "Krrish Chawla",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Neural Compression for Satellite Imagery",
-        "teamNum": "9.a",
-        "description": "In this project, we study the tradeoffs of compressing satellite imagery for machine learning performance. Whereas classic image compression methods are lossless, meaning that a compressed image \u2013 which we refer to as a representation \u2013 can be decompressed to the original state, we are instead interested in lossy image compression that preserves a notion of being \u201cuseful\u201d. That is, we concede the ability to reconstruct the original image but require that for any downstream prediction task, we can achieve equal performance by training a predictor on the raw images versus on the compressed representations. Intuitively, we should expect algorithms for this definition of lossy compression to have a much higher compression rate than classic methods, since not all information required for decompression is useful for prediction. In fact, prior work suggests that a small subset of uncompressed information is required to maintain high performance of downstream classification tasks. ",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Xiluo He",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Atem",
-        "teamNum": "9.b",
-        "description": "A RAG Architecture For Academic Literature Search",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Atem Aguer",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Panna Cotta",
-        "teamNum": "10.a",
-        "description": "Despite recent advances in computer science and artificial intelligence, personal data management has been traditionally overlooked. As consumers, Apple laptops ship out-of-the-box with a personal search tool, Spotlight. Nonetheless, it archaic, usually slow and mostly relies on classical search approaches like fuzzy and keyword search. This results in files being very difficult to find in one's device without the knowledge of their specific keywords or filenames.\n\nIn this Senior Project, I aim to explore the use of modern AI and statistical approaches, namely Large Language Models (LLMs), to design and implement a new information retrieval and search tool that makes efficient use of the most recent advances in the scientific community. Particularly, we think that it is possible to achieve low-latency search on files (in a \"personal\" domain) where the system can receive as input descriptive queries of the files and make that sufficient to find relevant files matching those query descriptions.",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Santiago Hernandez",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Ashish Rao",
-        "teamNum": "10.b",
-        "description": "Continual Learning (CL) is a field of AI that studies the design of agents that can adapt to nonstationary streams of data. For example, CL-enabled recommendation systems might adapt to changing user preferences, anomaly detection systems might adapt to evolving conditions in the contexts in which they are deployed, and robots might adapt to changing hardware characteristics over time.\n\nBesides being able to achieve high performance in nonstationary environments, CL agents should also be compute efficient. In this project, we attempt to design CL agents that can automatically increase or decrease their compute usage based on the complexity of the data they are processing. We present preliminary results exploring designs for compute adaptive agents, and find designs that achieve comparable or better performance to traditional CL agents while using ~10% fewer FLOPs on average.",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Ashish Rao",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "ExPLoRA",
-        "teamNum": "11.a",
-        "description": "Parameter-efficient fine-tuning (PEFT) techniques can adapt large pre-trained foundation models to downstream tasks using only a fraction of the original trainable weights. An under-explored question of PEFT is in extending the pre-training phase without supervised labels. We introduce ExPLoRA, which improves transfer learning of pre-trained vision transformers (ViTs) under domain shifts. ExPLoRA continues the unsupervised pre-training objective on a new domain using pre-trained ViTs. In this extended pre-training phase, ExPLoRA unfreezes 1-2 pre-trained ViT blocks and all normalization layers, and then tunes all other layers with LoRA. We fine-tune the resulting model only with LoRA for supervised learning. We achieve SOTA results, outperforming pre-training and fine-tuning ViTs. We demonstrate a significant improvement in linear probing accuracy using a fraction of the parameters. Our ablation studies confirm the efficacy of our approach over other baselines.",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Medhanie Irgau",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Emily Okabe",
-        "teamNum": "11.b",
-        "description": "We analyze the spread of misinformation online by comparing the effectiveness of factchecking sites in factchecking common narratives, finding the most important word features in narrative identification, and extending our findings to the multilingual setting. First, we compare the effectiveness of Twitter/X Community notes in mitigating the spread of misinformation by training a natural language inference model to determine whether a community note factchecks a tweet or not, then comparing Twitter/X's efficacy against factchecking sites in fact-checking misinformation narratives extracted using narrative clustering. Next, we find the most/least important tokens in identifying whether two passages have similar narratives to help determine which tokens should be given a greater weight in a semantic similarity model for downstream use in narrative clustering. Finally, we extend our study to multilingual news sources, identifying the most common narratives using clustering algorithms.",
-        "categories": [
-            "Research",
-            "Security",
-            "AI"
-        ],
-        "teamMembers": "Emily Okabe",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Aniketh's Research",
-        "teamNum": "12.a",
-        "description": "Representation learning for molecules for downstream usage in drug discovery related tasks has been an increasingly important focus of machine learning and bio-computational efforts. While the majority of the work has been directed towards models that operate on sequence and graph-based representations of small molecules, our work extends molecular latent learning to other representations and featurized forms, namely images and IR spectra. More specifically, in this work we explore the different representation forms within the context of few-shot prediction of molecular properties and QSAR modeling tasks. ",
-        "categories": [
-            "Healthcare",
-            "Biocomputation",
-            "AI"
-        ],
-        "teamMembers": "Aniketh Iyengar",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Expressive Quadruped Behavior",
-        "teamNum": "12.b",
-        "description": "Significant research interest has been dedicated to developing agile locomotion policies for legged robots. However these policies may be unpredictable or dangerous to humans, and when robots are deploying social environments it is imperative that the exhibit predictable, human-aligned behavior. I will present a new method, called Language-Guided Preference Learning for efficiently generating expressive, human-aligned behavior in quadruped robots.",
-        "categories": [
-            "Healthcare",
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Jaden Clark",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Daniel Kim",
-        "teamNum": "13.a",
-        "description": "As deep learning models have grown in size and complexity, conventional dense tensor computation approaches have become limited in capability because of their large memory and processing footprints. Sparse computation approaches can significantly reduce memory and compute costs by only storing and computing non-zero elements. Scorch is a newly introduced library for sparse deep learning that provides high-performance and flexible support for sparse tensor operations in PyTorch. For my project, I added support for custom mode ordering and parallel loop execution in Scorch. \n\nResearch areas: code generation, compilers, sparse ML, ML systems ",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Daniel Kim",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Stream of Search (SoS): Learning to Search in Language",
-        "teamNum": "13.b",
-        "description": "Language models are rarely shown fruitful mistakes while training. They then struggle to look beyond the next token, suffering from a snowballing of errors and struggling to predict the consequence of their actions several steps ahead. In this paper, we show how language models can be taught to search by representing the process of search in language, as a flattened string \u2014 a stream of search (SoS). We propose a unified language for search that captures an array of different symbolic search strategies. We demonstrate our approach using the simple yet difficult game of Countdown, where the goal is to combine input numbers with arithmetic operations to reach a target number. We pretrain a transformer-based language model from scratch on a dataset of streams of search generated by heuristic solvers. We find that SoS pretraining increases search accuracy by 25% over models trained to predict only the optimal search trajectory. We further finetune this model with two policy improvement methods: Advantage-Induced Policy Alignment (APA) and Self-Taught Reasoner (STaR). The finetuned SoS models solve 36% of previously unsolved problems, including problems that cannot be solved by any of the heuristic solvers. Our results indicate that language models can learn to solve problems via search, self-improve to flexibly use different search strategies, and potentially discover new ones. ",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Denise Hui Jean Lee",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Classifying the Oceanographic Landscape of Palmyra Atoll: A Machine Learning Approach for High Resolution CTD Analysis",
-        "teamNum": "14.a",
-        "description": "Different oceanographic environments are known to exist around the world, from coral reefs in the tropics to deep ocean habitats in the Atlantic. Qualitatively, we can identify these regions, however there are no existing computational pipelines to quantitatively understand how oceanographic environments are different from one another.  We collected oceanographic profiles during a month-long cruise to Palmyra Atoll, and used temperature, salinity, and chlorophyll-a measurements as input in our models. We adapted Multivaraite Dynamic Time Warping to compare profiles of varying length, calculating the similarity distance between each of the profiles. We then applied unsupervised learning methods on this distance matrix, spatially visualizing these clusters on a map and deriving oceanographic and ecological conclusions. We ultimately present an unbiased computational framework for oceanographic classification in Palmyra Atoll, eventually generalizable to reef systems around the world.\n",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Chinmay Lalgudi",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Emotom",
-        "teamNum": "14.b",
-        "description": "This project ventures into the exploration of emotion theory, focusing on how foundation models (FMs) can be employed to replicate human-like inferences about emotions and then map such inferences translate to emotion-recognizable virtual facial expressions. It involves recognizing and generating facial expressions, assessing the ability of FMs in understanding emotions through various contexts, and examining the interplay between beliefs, desires, outcomes, and emotions. A key aspect is the utilization of Unreal Engine's Metahumans to generate facial expressions based on Action Units (AUs). This approach is combined with human tests to validate the recognition of emotions, thereby assessing the capability of FMs in understanding emotions through different contexts.",
-        "categories": [
-            "Games",
-            "Research",
-            "Visual Computing",
-            "AI"
-        ],
-        "teamMembers": "Zoe Lynch",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Blockheads",
-        "teamNum": "15.a",
-        "description": "Within the 3D sandbox game Minecraft, there are many multiplayer servers that users can join. There is an existing student project that rebuilt Stanford's campus on a 1:1 scale. To make this server more fun for new and existing players, we're designing a minigame subserver from scratch that will host Stanford-themed party games, many of which set in places around the (virtual) campus.\n\nTo play, simply connect to \"play.stanford.builders\" on your computer, console, or mobile device!",
-        "categories": [
-            "Games"
-        ],
-        "teamMembers": "Gabe Maga\u00f1a, Abhi Kumar, Wyatt Johnson, Nikhil Lyles",
-        "sectionNum": 8
-    },
-    {
-        "teamName": "ReQuest",
-        "teamNum": "15.b",
-        "description": "Our app is designed to enhance the social experience of college students by providing a centralized platform for discovering events and connecting with others who share similar interests. The app addresses common challenges faced by students, such as the limitations of predetermined social circles and the difficulty in identifying mutual interests.\nThe platform incorporates gamification elements, allowing users to create avatars and earn points by participating in social activities and attending events. Users can log photos of their experiences and showcase them on their profiles, facilitating conversation starters and shared memories.\nBy providing information about shared interests and openness to new connections, the app enables students to approach others with confidence and expand their social circles. The goal is to foster diverse friendships, personal growth, and memorable experiences throughout college.\nThe app offers a practical solution to the challenges of socializing in college, helping students make the most of their time on campus by providing tools to connect with others and discover engaging events.",
-        "categories": [
-            "Social Media"
-        ],
-        "teamMembers": "David Yang, Sophie Wu, Mia Chen, Althea Hudson, Matthew Villescas",
-        "sectionNum": 13
-    },
-    {
-        "teamName": "Poole",
-        "teamNum": "16",
-        "description": "Poole is a mobile application designed to match people with shared interests and hobbies in universities. Users post events they would like others to join, with event details and desired number of attendance. Users can look for partners to engage in solo or group activities. On the event feed, users can browse through posted events, save interesting events to their profile, and RSVP to events.",
-        "categories": [
-            "Social Media"
-        ],
-        "teamMembers": "Jimmy Ogada, Carlo Dino, Harviel Arcilla, Colette Do, Sochima Ezema",
-        "sectionNum": 13
-    },
-    {
-        "teamName": "Love Alarm",
-        "teamNum": "17",
-        "description": "Love at first sight exists \u2014 everyday, we cross paths with hundreds of people. Have you ever walked into a restaurant and seen a guy sitting at the table next to you with his friend and thought, \u201cWow, he\u2019s cute.\u201d Or perhaps sat in a lecture and looked to your right to see your ideal type jotting down notes?\n\nIt\u2019s these candid, but genuine interactions that are representative of who we are truly interested in \u2014 not the person you swipe right on without much thought. Why then is it that these moments rarely lead to something real? In our current society where we have been shaped to be hypersensitive to other people\u2019s perceptions of us, it has become harder to walk up to someone and ask for their number or tell them you are interested in them \u2014 in fact, doing so might prompt social scrutiny.\n\nInspired by the popular Netflix series, we are designing an app that allows users to ring the \u201clove alarm\u201d and send a message to a person they are interested in within their radius. Real love starts now.",
-        "categories": [
-            "Social Media"
-        ],
-        "teamMembers": "Hannah Lee, Adi Badlani, Albert Hwang",
-        "sectionNum": 13
-    },
-    {
-        "teamName": "Flex",
-        "teamNum": "18",
-        "description": "FLEX is a social media application designed for active individuals who are interested in finding community. It revolutionizes the way people connect, share, and motivate each other on their fitness journeys\u2013we recognize that this is a journey that may look different for all users so we seek to offer a ton of specialized groups [\u201ccommunities\u201d that people can join/these communities can also be used for event organization (think running clubs)] catering to various interests and different fitness levels. On the platform, users will be able to create a personalized profile that can showcase their goals, achievements, and workouts, and they will be able to share media (privately or publicly) to a feed too.",
+        "teamName": "Kitchen Coders",
+        "teamNum": "2.b",
+        "description": "LoRA-Snap is an application that gives users the ability to generate and customize images using LoRA models. By abstracting away model training and technical complexity, this interface makes image uploads, fine-tuning, and personal image generation easier than ever before.",
         "categories": [
             "Social Media",
-            "Fitness"
+            "Generative AI",
+            "AI"
         ],
-        "teamMembers": "Asher Hensley, Christian Davis, Joanna Jo, Stephanie Yescas, Travis Grafton",
-        "sectionNum": 13
+        "teamMembers": "Xinmeng, Luke, Kelvin",
+        "sectionNum": 0
     },
     {
-        "teamName": "Muse",
-        "teamNum": "19.a",
-        "description": "Muse is a social network platform for art enthusiasts that allows users to discover and interact with museums and exhibitions around the world. Within the app, users can catalog and review the art they\u2019ve seen at every level: from specific artifacts to entire museums. By following both friend and museum accounts, users are always up to date with the newest exhibitions and what people are thinking about art around them. This way, Muse creates a more social and engaging way to experience and discover art. ",
-        "categories": [
-            "Social Media"
-        ],
-        "teamMembers": "Pedro Civita, Jake Lee",
-        "sectionNum": 13
-    },
-    {
-        "teamName": "Relative Refresh",
-        "teamNum": "20",
-        "description": "Our team, in partnership with Hospital Israelita Albert Einstein, supports NGOs creating upcycled products by assisting artisans in building their public profile, connecting with other upcycling partners, and sharing stories about their products. The goal of our platform is to \u201cget more eyes on upcycling\u201d, which is rooted in our belief that consumer viable upcycled products are possible only as awareness of the upcycling process increases both among members of the public and within waste producing organizations. Our target user is NGO administrative staff who can use our web app to generate engaging content that can be attached to their products using QR codes and an upcycling-centered public profile page that helps connect waste suppliers with producers of upcycled products.",
-        "categories": [
-            "Social Media",
-            "Environment",
-            "Healthcare"
-        ],
-        "teamMembers": "Philip Baillargeon, Alyssa Koh, Amantina Rossi, Alissa Vuillier",
-        "sectionNum": 13
-    },
-    {
-        "teamName": "Upcyclo",
-        "teamNum": "21",
-        "description": "Empowering Sustainability Through Upcycling: Our comprehensive platform maximizes the impact of upcycling initiatives, transforming fabric waste into eco-friendly products for businesses. Fabric providers and upcyclers alike can seamlessly manage fabric, place orders, track upcycled products, and gain insights into their environmental and social contributions.",
+        "teamName": "Team 24",
+        "teamNum": "3.a",
+        "description": "We are building an expense management platform for campus communities. ",
         "categories": [
             "Business/Office",
-            "Healthcare",
-            "Environment"
-        ],
-        "teamMembers": "Isabella He, Chloe Trujillo, Caroline Van, Sebastian Gonzalez",
-        "sectionNum": 3
-    },
-    {
-        "teamName": "GenreGenius",
-        "teamNum": "22.a",
-        "description": "GenreGenius is a machine learning based music/sound classifier.",
-        "categories": [
             "Education",
-            "Research",
-            "Music",
-            "AI"
-        ],
-        "teamMembers": "Sathvik Nori, Yifan Yang, Adrian Adegbesan",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "SRK",
-        "teamNum": "23.a",
-        "description": "We are building an AI tool that turns your research papers into a connected knowledge graph!",
-        "categories": [
-            "Productivity",
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Kapil Iyer, Sam Do, Rohan Sikand, Andre Yeung",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Team Fine Ants, Bro!",
-        "teamNum": "24",
-        "description": "\nIntroducing Archi: Your Personal Guide to Architectural Discovery!\nArchi leverages VLM (Vision Language Model) technology to enrich your understanding of architectural wonders around you. With a simple point-and-shoot mechanism, Archi transforms any photo of an architectural element into a gateway of knowledge and inspiration.\n\nHere's how Archi works:\n\nInstant Analysis: Capture a photo, and Archi provides detailed insights about its design inspirations.\nCurated Recommendations: Discover related architectural styles and structures in a user-friendly, scrollable format.\nLocation-Based Accuracy: Utilizing precise location data, Archi ensures the information you receive is accurate and relevant.\nContinuous Exploration: Archi deepens your knowledge as you capture and explore new structures, building upon your journey.\nArchi is your companion in unraveling the stories behind the architecture that shapes our world. Dive into an educational adventure and let Archi elevate your explorations.",
-        "categories": [
-            "Education",
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Luke Mann, Gunnar Hanson, Polycarpos Yiorkadjis",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Government Organization Chart",
-        "teamNum": "25.a",
-        "description": "To make government organizations more accessible, my project aims to improve the \u201cvisualization and revitalization of government organization charts.\u201d Government is notoriously difficult to navigate, and organization charts often provide little context on what the agency is doing and how it operates. \n\nUsing 3D node graphs, I have created dynamic and interactive organization charts that are more fun and easy to navigate and pair them with generative AI descriptions of organizations at every level. These charts aim to offer an engaging and intuitive user experience, making it easier to navigate, understand, and access the structure of government organizations. This incorporates user-centered design principles, ensuring accessibility and ease of use for a diverse range of users. \n",
-        "categories": [
-            "Education",
-            "Productivity",
-            "AI"
-        ],
-        "teamMembers": "Emmanuelle \u201cEmma\u201d Williamson",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "RECUMA",
-        "teamNum": "26.a",
-        "description": "This project builds on the work of the Compiler RECUMA. RECUMA is a recurrence compiler which can produce C code for any recurrence equation given a user schedule and storage format. Our paper on RECUMA was recently accepted to the OOPSLA conference. Now, we are working on a follow-up paper which is going to use tiling techniques to optimize the code produced by RECUMA. Our new code generation algorithm will also replace part(s) of the produced code with external library calls (for example from the BLAS library) to further optimize the tiled code.",
-        "categories": [
-            "Research"
-        ],
-        "teamMembers": "Usman Tariq",
-        "sectionNum": 11
-    },
-    {
-        "teamName": "Bitdefender",
-        "teamNum": "26.b",
-        "description": "In our work, we derive a novel machine unlearning technique for diffusion models that is able to effectively mitigate the generation of a subset of training images. ",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Kenan Hasanaliyev",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Deep Learning for Extracting Structured Scientific Data",
-        "teamNum": "27.a",
-        "description": "Scientific data in the published literature and other sources is often inaccessible to traditional data science methods. Using the field of paleontology as a case study, we explore the utility of deep learning methods in extracting this \u201chidden\u201d scientific data from both text and image modalities into a structured, workable format.",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Edward Huang",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "NewsByte",
-        "teamNum": "27.b",
-        "description": "NewsByte redefines online news consumption by blending short, easily digestible news articles with the depth and reliability of traditional news. Using advanced large language models, NewsByte synthesizes the latest news into short digestible summaries, complemented by AI-generated imagery, creating an immersive and informative experience. NewsByte automatically searches for recent, relevant news topics to generate articles, to ensure that users can receive the most important news in an unbiased fashion. This platform aims to cater to the modern user\u2019s preference for quick information absorption, while ensuring the news remains accessible, engaging, and accurate.",
-        "categories": [
-            "Social Media",
-            "News",
-            "Information",
-            "AI"
-        ],
-        "teamMembers": "Mihir Anand, Daniel Tyshler, Nolan Krutonog, Adam Zhao, Benji White",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "NiT",
-        "teamNum": "28",
-        "description": "NiT\u2019s mission is to ease young adults\u2019 transitions into their postgraduate lives by helping them create friendships in their new locations with other young adults. Based on their selected interests and profile information, our app offers users matches into small groups of 5 to 8 people within close geographic proximity. Our hope is for users to eventually delete the app because they\u2019ve fostered such a fulfilling sense of community in their new whereabouts!",
-        "categories": [
-            "Social Media",
-            "Lifestyle"
-        ],
-        "teamMembers": "Sydney Renea Vaughn Lisette Malacon, Jaylene Martinez, Fabian Luna, Ulo Freitas",
-        "sectionNum": 13
-    },
-    {
-        "teamName": "Herd",
-        "teamNum": "29",
-        "description": "Herd is designed to be an online community where women can candidly post about their interests, wellness, and matters related to professional life, and receive community and support from their peers. Our design decisions centered around establishing and fortifying a trusting, healthy, safe space where users are intentional about the content they produce and how they interact with their community members. Our aim is to create the premier digital space for women and women-identifying individuals to connect with their peers through thoughtful discussions and providing genuine support. ",
-        "categories": [
-            "Behavior Change/Wellness",
-            "Education",
-            "Social Media"
-        ],
-        "teamMembers": "Athena Shiravi, Malina Calarco, Nazanin Soltan, Amelie Buc",
-        "sectionNum": 2
-    },
-    {
-        "teamName": "Purple Pandas",
-        "teamNum": "30",
-        "description": "Hobby Haven is a web app motivating people to engage in their hobbies more often by connecting them with an accountability buddy. Users match with others based on their hobbies, motivate each other to spend time on their hobbies, and earn points alongside their hobby buddy while completing their goals together.\n\nSince we also understand that many hobbies require in-person engagement, we facilitate trust by allowing people to filter for their potential hobby buddies (on skill level, pronouns, age, etc) and encourage users to chat with each other prior to meeting up. Through the points system, we also encourage long-term engagement between hobby buddies. Ultimately, by centering our application around people's hobbies, we want to create a platform where people can make more meaningful connections with each other.",
-        "categories": [
-            "Behavior Change/Wellness",
-            "Productivity",
-            "Social Media"
-        ],
-        "teamMembers": "Janice Teoh, Maggie Skortcheva, Zachary Cadiz, Adrian Thai, Malek Hodroj",
-        "sectionNum": 2
-    },
-    {
-        "teamName": "Team 22",
-        "teamNum": "31",
-        "description": "Bookmark is a platform for bookworms to share their thoughts on what they're currently reading with each other and get the best recommendations for new books to add to their shelves. Who know's your taste in books better than you and your friends? Get personalized book recommendations based on what you love and what your friends think you might love! Easily keep track of your current favorites as well as books on your to-read list! And see what people around the world think about trending books that may not be in your radar yet.",
-        "categories": [
-            "Education",
-            "Social Media"
-        ],
-        "teamMembers": "Mena Hassan, Chetan Nair, Ethan Hu, Belinda Yeung, and Robert Igbokwe",
-        "sectionNum": 6
-    },
-    {
-        "teamName": "PocketPick",
-        "teamNum": "32",
-        "description": "PocketPick: We do the heavy-lifting to deliver you the best insights \ud83e\uddbe, while you enjoy the fun and strategic part of sports-betting.",
-        "categories": [
-            "Sports",
-            "AI"
-        ],
-        "teamMembers": "Hunter Zhang, Anita Lu, Jimming He, Taran Kota.",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Kenja",
-        "teamNum": "33",
-        "description": "Kenja is building better and more personalized AI search.\n\nSearching for products online is a hassle: you have to know exactly what you\u2019re searching for and most experiences are impersonal.\n\nWe help e-commerce companies with this issue: through just a couple of steps, we can turn arbitrary product catalog data into search APIs that can handle text and images, offer highly personalized results, and even explain the recommendations users see.",
-        "categories": [
-            "Business/Office",
-            "AI"
-        ],
-        "teamMembers": "Travis Senf, Christopher Pondoc, Joseph Guman, Joseph O'Brien",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "FilmFlicks",
-        "teamNum": "34.a",
-        "description": "Throughout the brainstorming process for our software development project, our team found a common interest in entertainment, specifically movies and streaming. When thinking about issues we see within the movie-watching process, we resonated with the common pain point of wasting unnecessary time finding the right movie to watch with others. It is well established that content consumption, particularly streaming and movie watching has significantly increased in recent years. With our product, which we call Film Flicks, we hope to push people to spend more quality, productive time together while simultaneously saving time picking a movie to watch. Further, the technology we intend to develop has capabilities that can be integrated into larger streaming services where people would highly benefit, such as a group movie selection feature on major streaming platforms based on individual preferences. ",
-        "categories": [
-            "Entertainment",
-            "AI"
-        ],
-        "teamMembers": "Amulya Pillutla, Arjun Karanam, Houston Taylor, Jason Lazar",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Retrospect",
-        "teamNum": "35.a",
-        "description": "Retrospect is an iOS app designed to provide insightful feedback and suggestions on your text conversations. By uploading screenshots of any conversation, users can gain valuable analysis powered by advanced linguistic algorithms (such as LIWC and LSM) and Large Language Models (LLMs). ",
-        "categories": [
-            "Behavior Change/Wellness",
-            "AI"
-        ],
-        "teamMembers": "Jasmine Bilir, Jacopo Mascitelli",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Translation",
-        "teamNum": "35.b",
-        "description": "Our project consists of using voice synthesis to translate lecture videos for Stanford's Code in Place program.",
-        "categories": [
-            "Education",
-            "AI"
-        ],
-        "teamMembers": "Teland La, Joe Ngo",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Team 7",
-        "teamNum": "37",
-        "description": "Metis is a calendar triage application that takes in a list of tasks and their deadlines and converts them to scheduled blocks of working time according to the user's preferences. Metis dynamically ingests the user's calendar application on their device to prevent any collisions or scheduling conflicts.",
-        "categories": [
-            "Education",
-            "Productivity",
-            "AI"
-        ],
-        "teamMembers": "Ekaterina Rjavinski, Max Jardetzky, Mattheus Wolff, Eastan Giebler, Kaya Guvendi",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "InterviewIQ (Team 4)",
-        "teamNum": "38",
-        "description": "A web-based software application that utilizes Natural Language Processing (NLP) to offer a simulated behavioral interview experience.",
-        "categories": [
-            "Education",
-            "AI"
-        ],
-        "teamMembers": "Minahil Haseeb, SiYi Ma, Allen Wu, Diego Valdez Duran",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Eyeris",
-        "teamNum": "39",
-        "description": "They say, \"A picture is worth a thousand words.\"\n\nWhat if we just create those thousand words? \n\nEyeris leverages advanced image processing algorithms and Large Language Models (LLMs) to provide real-time auditory textual descriptions of live video feeds. Harnessing the innate expressiveness of language, this innovative technology empowers individuals with visual impairments to navigate their surroundings independently and stay connected with their environment.",
-        "categories": [
-            "Behavior Change/Wellness",
-            "Education",
-            "Healthcare",
-            "Productivity",
-            "AI"
-        ],
-        "teamMembers": "Jason Chen, Vicky Wu, Tom Nguyen, Kyle Bergstedt, Ethan Ko",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Receipts",
-        "teamNum": "40.a",
-        "description": "People have long sought to measure and perceive themselves in an unbiased way. Personality tests and fitness trackers are ubiquitous for this reason, despite being incredibly low-resolution. What if we could tell everyone who they are, who they were, and how they have changed, both precisely and dynamically? We're building a semantic understanding layer for life that has context out of the box. Our extensive background in NLP R&D enables our development of novel generalization mechanisms to supercharge the capabilities of applied LLMs for this task, giving us high-fidelity insights that are relevant to the user and otherwise impossible to generate out-of-the-box. This all defines the foundation of Receipts -- an instantly powerful therapist, relationship coach, and personal assistant built on top of your personal dataset.",
-        "categories": [
-            "Behavior Change/Wellness",
-            "Productivity",
-            "Social Media",
-            "AI"
-        ],
-        "teamMembers": "Kabir Jolly, Daniel Fein",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Team CHATuchak",
-        "teamNum": "42",
-        "description": "Hello! We are team CHATuchak, and for the past two quarters we\u2019ve been working on automating online sales. In close collaboration with GDX, a leading Japanese provider of innovative e-commerce solutions, we\u2019ve developed a generative AI-powered chatbot that simulates a human seller. Unlike standard shopping assistants, our bot not only handles inventory inquiries but also actively recommends products, optimizes pricing, and strategizes offers like bundle discounts to maximize seller profits. Leveraging the power of LLMs, \u200bour bot dynamically analyzes ongoing conversations to make real-time, context-aware decisions to enhance the buyer's shopping experience. Our hope is that our solution's automation of the sales process empowers sellers to focus on other crucial aspects of their business. Many thanks to our partners at GDX and all those who have supported us on this journey, with a special shout-out to Jay Borenstein and Nick Vo, for their invaluable guidance and support.",
-        "categories": [
-            "Commerce",
-            "AI"
-        ],
-        "teamMembers": "Kris Jeong, Kaylee Doty, Ashton Xiong, Edwin Pua, Pauline Arnoud",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Shine",
-        "teamNum": "43",
-        "description": "We are a personalized skincare service that guides you through the process of creating a skincare routine that is customized to your skin type. Building a skincare routine can be a daunting task, which is why we do all the work for you by researching the best products for your skin, and harnessing AI to make recommendations. Our goal is to leave you feeling more informed and confident about skincare after using our simple and easy builder meant for everyone!",
-        "categories": [
-            "Behavior Change/Wellness",
-            "Healthcare",
-            "AI"
-        ],
-        "teamMembers": "Samuel Xing, Zachary Chen, Yoonju Kim",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Pediatric Apple Watch Study",
-        "teamNum": "44.a",
-        "description": "The Pediatric Apple Watch Study (PAWS) application leverages the capabilities of the Apple Watch to enhance the characterization and monitoring of abnormal heart rhythms (arrhythmias) in children. This open-source software serves to assist a Stanford Medicine research team that recently found that smartwatches were able to identify arrhythmias in 41 pediatric patients, with 29 of them receiving new diagnoses that were missed by traditional ambulatory monitoring methods.\n\nIn a follow-up study, the updated PAWS application adds new cardiac and activity-based metrics for data analysis, which will be used to further assess the accuracy of heart rate and rhythm measurements from smartwatches compared to standard diagnostic devices in children. The goal is to help develop pediatric-specific algorithms for monitoring heart health using wearable technology, as well as robust software that is extensible to adjacent use cases in clinical practice.",
-        "categories": [
-            "Healthcare",
-            "AI"
-        ],
-        "teamMembers": "Matthew Turk",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "PinCS",
-        "teamNum": "45.a",
-        "description": "In this study, we want to assess how the incorporation of flying drones into introductory computer science (CS) curriculum influences student engagement and motivation, concept mastery / achievable learning objectives, and curriculum feasibility for teachers. Our research team will design a curriculum centered around inexpensive drones for this study.\n\nBy employing a drone-based CS curriculum, we aim to investigate whether drone-based curriculum influences participation and interest of students with very limited CS backgrounds. We intend to study how teachers can design and implement a curriculum that is more engaging and accessible to all students, particularly those that identify with traditionally underrepresented groups in STEM fields. \n\nBeyond exploring the effect of drone-based CS curriculum on students' interest in the field, we hope to evaluate the efficacy of a drone-based curriculum as a final capstone project for the Advanced Placement Computer Science A class.",
-        "categories": [
-            "Education"
-        ],
-        "teamMembers": "Stanley Cao",
-        "sectionNum": 6
-    },
-    {
-        "teamName": "labib tazwar rahman",
-        "teamNum": "45.b",
-        "description": "Human-Ai collaborative learning",
-        "categories": [
-            "Education",
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "labib tazwar rahman",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Team 16",
-        "teamNum": "46",
-        "description": "Fancy Queue is a platform that will allow instructors to assist students with homework easily. ",
-        "categories": [
-            "Education"
-        ],
-        "teamMembers": "Clinton Kwarteng, Diego Admad-Stein, Augustin Otero, Abranette F. Barry, Blessing Opoku",
-        "sectionNum": 6
-    },
-    {
-        "teamName": "Financier",
-        "teamNum": "47",
-        "description": "Our product, Financier, extends the functionality of 13f.info which serves as a user-friendly platform to access SEC 13F filings\u2014quarterly reports showcasing equity assets held by institutional investment managers. We build upon this existing framework by creating a generative AI model capable of analyzing these lengthy and monotonous reports into meaningful analysis. Financier aims to transform this basic utility into a dynamic analytical platform by integrating a GPT-like AI. This AI will allow users to interact with the tool using natural language queries, offering deeper insights and more granular analysis of hedge fund positions, changes, and performance metrics. By leveraging the existing data infrastructure of 13f.info and enhancing it with cutting-edge AI technology, our product will provide unprecedented access to sophisticated financial analysis that caters to both professional and casual investors.",
-        "categories": [
             "Finance",
-            "AI"
-        ],
-        "teamMembers": "Shawn Charles, Omar Ramos Escoto, Diego Zancaneli, Koren Gilbai, Tomas Pfeffer",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Hummingbird",
-        "teamNum": "52",
-        "description": "Hummingbird is a songwriting assistant for beginning musicians and producers to streamline the process of capturing and developing musical ideas. Our tool includes a journal for lyrics and melodies with voice memo integration; a beatboxing detection feature, which identifies and classifies percussive sounds into distinct drum elements like kicks, snares, and hi-hats to convert into audio files ready for use in a digital audio workstation (DAW); a humming to MIDI feature that detects the pitch and rhythm of a user's humming and translates it into MIDI notes ready to be input into a DAW; and a chord suggestion feature based on the detected melodies.",
-        "categories": [
-            "Productivity",
-            "Music",
-            "AI"
-        ],
-        "teamMembers": "Dyllen Nellis, Ari Webb, Gayatridevi Dinar Kamat Tarcar, Ayush Majumdar",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "LightningMail",
-        "teamNum": "53",
-        "description": "LightningMail is an innovative AI-powered Chrome extension designed to transform how professionals handle their daily email tasks. By generating relevant, personalized emails that match your style in seconds, LightningMail saves you valuable time and revolutionizes productivity. Integrating seamlessly with popular email platforms like Gmail and Outlook, this tool adapts to the unique context of your projects and relationships, ensuring every email is contextually relevant and effortlessly crafted. Powered by the latest AI advancements and continuously evolving, LightningMail promises smarter, more intuitive email replies with just a click of a button. Experience the future of email with LightningMail\u2014crafted to help you reclaim your time and focus on what truly matters.",
-        "categories": [
-            "Business/Office",
             "Productivity",
             "AI"
         ],
-        "teamMembers": "Caia Costello, Ben Felter, Tibor Thompson",
+        "teamMembers": "Filip Henriksson, Clayton Moore, Allen Yuan, Kevin, Joshua Rizo",
         "sectionNum": 0
     },
     {
-        "teamName": "Promptflow",
-        "teamNum": "54",
-        "description": "Promptflow allows users to rapidly build and evaluate prompts. Users can compare multiple prompt + model combinations on both custom and auto-generated test cases in a single click.",
+        "teamName": "Perihelion",
+        "teamNum": "3.b",
+        "description": "We're making a narrative-based precision platformer game. It will put our players in the shoes of a courier traversing the post-apocalyptic ruins of a city, delivering messages between settlements of survivors and making tough moral choices about which messages to read or alter, while braving the increasingly dangerous hazards of the decaying urban terrain. We aim to explore themes of community and resilience with our story while giving the player a sense of skill growth and accomplishment with tricky platforming gameplay.",
         "categories": [
-            "Business/Office",
-            "Productivity",
-            "AI"
-        ],
-        "teamMembers": "Scott Hickmann, Elijah Kim, Kevin Li, Schwinn Saereesitthipitak, Henry Weng",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "TreeListings",
-        "teamNum": "48",
-        "description": "TreeListings is a local online marketplace for Stanford Students to buy, sell, and exchange used goods and services that focuses on personalization, convenience, accessibility, design & safety. TreeListings also provides a unique local space for businesses in the community to promote themselves by offering coupons directed specifically for the Stanford community.",
-        "categories": [
-            "Commerce"
-        ],
-        "teamMembers": "June Lee, Ely Chen, Shumann Xu, Chris Vu, Jordan Paredes",
-        "sectionNum": 4
-    },
-    {
-        "teamName": "Moosh",
-        "teamNum": "36",
-        "description": "Moosh is an AI Spotify playlist assistant. Any natural language prompt is converted into a cohesive playlist while incorporating your personal listening taste! Moosh uses a combination of OpenAI's GPT API and the Spotify recommendations algorithm.",
-        "categories": [
-            "Music/Entertainment",
-            "AI"
-        ],
-        "teamMembers": "Tee Monsereenusorn, Gareth Cockroft, Jonathan Coronado, Tommy Adams",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "KERBY",
-        "teamNum": "6",
-        "description": "The Mercedes-Benz AI Palette is a set of immersive, entertainment-focused conversational AI personas that a driver can interact with.\n\nHere's the user journey. Firstly, pick a persona. We've voice-cloned Peter Drury, Frank Sinatra, and David Attenborough for now to craft our three main personas: Football Commentator, Old Sport, and Art & Nature. Powered by GenAI, these personas engage in dialogue, react to events like honks and acceleration, and even react to hand gestures to provide persona-specific interactions. We emphasize the importance of immersiveness in our product to differentiate the experience from your typical, logistical AI assistant.\n\nBuilt on the Android platform with conversational LLMs and text-to-speech synthesis, our models capture the distinct style, voice, and tone of each real-world figure, ensuring authentic conversations that make them sound natural, supportive, and humorous. The personas also react to honks and acceleration detected by sensors on a physical minicar. We've made sure to provide examples to personalize the unique features of each persona: the Football Commentator gives football news updates, Old Sport suggests new songs, and Art & Nature uses a real-time camera to respond to the driver's gestures and narrate surroundings using computer vision.",
-        "categories": [
-            "Automotive",
-            "AI"
-        ],
-        "teamMembers": "Katherine Chen, Esteban Wu, Ryan Kang, Will Fang, Yannie Tan",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Silk AI",
-        "teamNum": "41",
-        "description": "Silk AI optimizes each step of the negotiation process for distribution sales teams, allowing them to close deals faster and with higher margins. Our AI agent automates communication and provides real time strategy for account managers and salespeople, including during sales calls. This is surfaced as a dashboard that updates real-time during calls, and an extension that integrates with CRM/Email to automate text-based communication. \n\nBehind the scenes, the AI agent has access to generative AI, Retrieval Augmented Generation, and robust mathematical negotiation heuristic models that leverage the company\u2019s internal preferences and data, along with a profile of the customer. Once we start acquiring customers and accumulate historical data, we plan to build more complex models (using game theory, reinforcement learning) that learn over time, creating a level of optimization currently unavailable to sales teams today. ",
-        "categories": [
-            "Business/Office",
-            "Commerce",
-            "AI"
-        ],
-        "teamMembers": "Theo Kanell, Winson Cheng, Abhinav Agarwal, Jack Xiao, Ronak Malde",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "City ReVamp",
-        "teamNum": "25.b",
-        "description": "To better inform citizens about the ever changing environmental landscape around them, we are creating City ReVamp, an interactive game simulation that actively entertains users in the likeliness of city-building games (a popular genre of gaming that involves creativity, strategy, and resource management) while also spreading awareness of the increasing environmental threats that cities face in the upcoming future. Players will be placed in a randomized landscape and will be prompted to install a series of risk mitigation techniques in order to combat environmental harms that may befall upon the user's city.",
-        "categories": [
-            "Education",
             "Games"
         ],
-        "teamMembers": "Gerald Kang, Fletcher Newell, Romuald Thomas, Ian Ng, Jonathan Merchan",
-        "sectionNum": 6
+        "teamMembers": "Lucien Lasseau, Paul Z Duggan, Peter Li, Richard Yin, Tae Kyu Kim",
+        "sectionNum": 8
     },
     {
-        "teamName": "Kenny O.",
-        "teamNum": "49.b",
-        "description": "storylines search is an image search algorithm that learns from previous searches",
-        "categories": [
-            "Social Media",
-            "AI"
-        ],
-        "teamMembers": "Kenny Oseleononmen",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Jambo",
-        "teamNum": "34.b",
-        "description": "Jambo aims to provide seamless, direct speech-to-speech translation using advanced models like Meta's Wav2Vec 2.0 with BERT for ASR, No Language Left Behind for high translation accuracy, and HiFi-GAN for voice output, addressing latency and preserving tone. This system will support the top 5 most spoken languages, enhancing global communication",
-        "categories": [
-            "Communication",
-            "AI"
-        ],
-        "teamMembers": "Zouberou Sayibou ",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Team 15",
-        "teamNum": "50",
-        "description": "Our project is a social media platform focused on investors and stocks, similar to Twitter/Reddit, where users can share stock updates, memes, and other stock-related information that connects and empowers investors. We additionally envision the product to allow users to gain insights into their individual portfolios, making recommendations based on similar portfolios and sentiments shared on the stocks currently owned by the user.",
-        "categories": [
-            "Finance",
-            "Social Media"
-        ],
-        "teamMembers": "Armando Borda, Esau Veliz, Dean Tran, Marcus Llorente, Sebastian Garza Garcia",
-        "sectionNum": 7
-    },
-    {
-        "teamName": "KeepUp",
-        "teamNum": "51",
-        "description": "KeepUp is a platform for people who want to keep up with the latest research, but find it hard to stay on top of it all. Our system recommends the latest and most relevant research papers in a digestible way, to effortlessly keep your knowledge sharp. Keeping up is easy with KeepUp.",
+        "teamName": "Newsly",
+        "teamNum": "4.a",
+        "description": "Newsly helps the public to deeply engage with the news\u2014not just consume it.  The app compares, contrasts, and contextualizes related articles from all sides of the political spectrum, prompting users to think critically about current stories. We hope Newsly helps users navigate their political blind spots and stay informed by critically engaging with current affairs. Newsly is news from everywhere, for everyone. ",
         "categories": [
             "Education",
             "Productivity",
-            "Research",
+            "Social Good",
             "AI"
         ],
-        "teamMembers": "Erik Rozi, Poojan Pandya, Uma Phatak, Priti Ragnekar, Kyla Guru",
+        "teamMembers": "Andrew Bempong, Avi Udash, Sabino Hernandez Jr, Elina Mirbaha, Adrian Lafuente ",
         "sectionNum": 0
     },
     {
-        "teamName": "Michael Byun",
-        "teamNum": "8.b",
-        "description": "Investigating the adversarial robustness of linear truth representations in the hidden space of LLMs",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Michael Byun",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Learning Robotic Manipulation from Human Video",
-        "teamNum": "40.b",
-        "description": "Training imitation learning policies to complete robotic manipulation tasks by using human video as a data source. We train a Latent Action Model that labels human videos with low-dimensional actions, allowing human video to be treated as simply another embodiment in a cross-embodiment imitation learning dataset.",
-        "categories": [
-            "Research",
-            "AI"
-        ],
-        "teamMembers": "Gabrael Levine",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Storybook AI",
-        "teamNum": "19.b",
-        "description": "Come check out Storybook AI! Simply submit a drawing, picture, or text description, and we'll create custom storybooks or curate personalized book recommendations just for you. Whether you're an artist, a reader, or just feeling whimsical, Storybook AI will bring your imagination to life!",
+        "teamName": "EduAlly",
+        "teamNum": "4.b",
+        "description": "EduAlly is a lightweight AI course assistant designed to help students stay connected to lectures\u2014whether they\u2019re in the room or catching up later. By integrating lecture slides, transcripts, and live audio, EduAlly enables students to privately ask course-specific questions and get reliable answers grounded in actual class content. Built for accessibility, privacy, and clarity, EduAlly supports real-time and post-lecture review, helping students learn at their own pace while giving instructors insights into where students are struggling, all without disrupting the flow of teaching.",
         "categories": [
             "Education",
-            "Games",
             "AI"
         ],
-        "teamMembers": "John Finkelman, Naijing Guo, Parker Kasiewicz, Peter Xux, Vishesh Gupta",
+        "teamMembers": "Andrew Wu, Yahaya Ndutu, Cameron Krouch, Robert DiDonato, Felix Zhan  ",
         "sectionNum": 0
     },
     {
-        "teamName": "MIRIAD",
-        "teamNum": "44.b",
-        "description": "We have built a rich, large-scale dataset of operationalized medical knowledge in the form of medical questions and answers, grounded in articles from the medical literature. Our dataset consists entirely of text data, including millions of passages and question-answer pairs. The downstream tasks of this dataset are training a retriever and instruction fine-tuning a medical foundation model. Existing solutions for medical question answering tasks typically use basic retrieval techniques, such as vector databases, and general-domain embeddings to augment LLMs with contextual information. Our dataset provides domain-specific optimizations could better capture deep semantic relationships between queries and retrieved context.",
+        "teamName": "Group 14",
+        "teamNum": "5.a",
+        "description": "EduAlly is a lightweight AI course assistant designed to help students stay connected to lectures\u2014whether they\u2019re in the room or catching up later. By integrating lecture slides, transcripts, and live audio, EduAlly enables students to privately ask course-specific questions and get reliable answers grounded in actual class content. Built for accessibility, privacy, and clarity, EduAlly supports real-time and post-lecture review, helping students learn at their own pace while giving instructors insights into where students are struggling, all without disrupting the flow of teaching.",
         "categories": [
+            "Education",
+            "AI"
+        ],
+        "teamMembers": "Robert DiDonato, Cameron Krouch, Felix Zhan, Yahaya Ndutu, Andrew Wu",
+        "sectionNum": 0
+    },
+    {
+        "teamName": "Dreamscape",
+        "teamNum": "5.b",
+        "description": "We\u2019re building Dreamscape, a dream journaling app that transforms your subconscious thoughts into immersive digital experiences. Users simply write down their dreams, and Dreamscape auto-generates images, soundscapes, and visual backgrounds that match the tone and content of the entry. Over time, users can build a visual collage of their dreams, revisit them, and even share their dreamworld with friends.",
+        "categories": [
+            "Behavior Change/Wellness",
+            "AI"
+        ],
+        "teamMembers": "Steven Le, Chijioke Mgbahurike, Kwame Ocran, Iddah Mlauzi, Mohamed Musa",
+        "sectionNum": 0
+    },
+    {
+        "teamName": "TreeScript",
+        "teamNum": "6.a",
+        "description": "TreeScript is an automated transcript parser designed to streamline the recruiting process for Stanford Athletics. Using document analysis and natural language processing, TreeScript extracts and standardizes key academic data\u2014such as GPA, core courses, and graduation progress\u2014from a wide variety of high school transcripts. By providing fast, accurate academic evaluations aligned with Stanford\u2019s rigorous standards, TreeScript helps coaches and recruiting staff make quicker, more informed decisions while reducing administrative burden.",
+        "categories": [
+            "Education",
+            "Productivity",
+            "AI"
+        ],
+        "teamMembers": "Avery Voss, Hayden Kwan, Renee White, Leyth Toubassy, Abranette Barry",
+        "sectionNum": 0
+    },
+    {
+        "teamName": "Tracy",
+        "teamNum": "6.b",
+        "description": "Tracy is a debugging enhancement tool that integrates seamlessly with the GNU Debugger (GDB). Designed for developers who prefer visual learning, it transforms traditional text-based outputs (e.g., call hierarchies, variable inspection, and memory allocation) into clear, graphical representations. By visualizing a program\u2019s call stack during execution and highlighting potential error states, the tool simplifies the debugging process, making it easier to diagnose and resolve complex bugs.",
+        "categories": [
+            "Education",
+            "Productivity",
+            "AI"
+        ],
+        "teamMembers": "David Thao, Mark Marquez, Connor Marsh, Steph Wyatt, Michael Sun",
+        "sectionNum": 0
+    },
+    {
+        "teamName": "GoldenNest",
+        "teamNum": "7.a",
+        "description": "GoldenNest is a personalized elderly care mobile app designed for residents in nursing homes and senior living. The mobile app addresses critical pain points like fragmented communication, manual scheduling, and isolation, providing a streamlined system that keeps everyone connected and informed. GoldenNest cultivates holistic wellness by centralizing communication between elderly individuals (60+), care providers, and their families at nursing homes through senior senior-friendly user interface, personalized events calendars, medicine and therapy tracker, as well as AI-recommended activities and community events. Designed to be integrated into nursing homes, we aim to build a robust, scalable platform that improves daily care coordination and enriches seniors\u2019 quality of life through accessible technology and personalized support.",
+        "categories": [
+            "Behavior Change/Wellness",
+            "Business/Office",
             "Healthcare",
-            "Research",
+            "Social Good",
             "AI"
         ],
-        "teamMembers": "Salman Abdullah",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "Schoolhouse AI Feedback",
-        "teamNum": "22.b",
-        "description": "Ran a randomized controlled trial that explores the affect of providing personalized, automated feedback to tutors on student learning outcomes",
-        "categories": [
-            "Education",
-            "AI"
-        ],
-        "teamMembers": "Joy Yun",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "ThermaQuest",
-        "teamNum": "23.b",
-        "description": "Project Title: Enhancing Demining Efficiency: A Novel Approach Leveraging Thermal Imaging and Machine Learning\n\nDescription: Our research has successfully developed an innovative demining solution that significantly enhances the detection efficiency of unexploded ordnance (UXO) by leveraging advanced thermal imaging and machine learning techniques. Traditional demining methods, which primarily rely on metal detection, often suffer from high false-positive rates and inefficiencies. In response, our project employed the DJI Mavic 3T drone to capture thermal images in various simulated demining environments, focusing on the unique thermal signatures of UXO and common metallic debris.\n\nUsing a tailored Convolutional Neural Network (CNN) based on the VGG-16 architecture, we trained our model to accurately distinguish between UXO and innocuous metal objects. The model demonstrated high accuracy and reliability, significantly reducing false positives and improving operational efficiency. Key performance metrics, including accuracy, precision, recall, F1-score, and Intersection over Union (IoU), validated the model's effectiveness.\n\nThe outcomes of this research establish a new standard in demining technologies, offering a safer and more efficient approach to UXO detection. Our findings not only enhance current demining practices but also provide valuable insights for future innovations in the field, highlighting the potential of combining thermal imaging and machine learning in humanitarian efforts.\n\nKey Achievements:\n\nDeveloped a comprehensive thermal image dataset simulating real-world demining conditions.\nCreated and validated a high-precision CNN model for UXO detection.\nAchieved significant improvements in detection accuracy and operational efficiency.\nContributed to the advancement of demining technologies with a focus on safety and effectiveness.",
-        "categories": [
-            "Research",
-            "Security",
-            "AI"
-        ],
-        "teamMembers": "Abdulwahab Omira",
-        "sectionNum": 0
-    },
-    {
-        "teamName": "TripSage",
-        "teamNum": "49.a",
-        "description": "Trip Sage assists your traveling experience. Be in on foot or on a drive, you can start a trip with Trip Sage, and the app will send you a notification when you pass interesting attractions near you. It will provide information about the attraction through an interactive chat, where you can ask follow up questions and learn more about each place. The experience is highly customizable. With Trip Sage, your curiosity will guide your new adventures!",
-        "categories": [
-            "Marketing",
-            "Social Media",
-            "AI"
-        ],
-        "teamMembers": "Proud Mpala, Jason Chao, Raghav Garg, Emma Wong, Beatriz Freire",
+        "teamMembers": " Sarah Dong;  Emma Hong; Bhumikorn Kongtaveelert; Anne Liang; Nathania Lim;",
         "sectionNum": 0
     }
 ]

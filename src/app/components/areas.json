@@ -1,6 +1,6 @@
 [
     {
-        "name": "6-Andrea Liao-1.a",
+        "name": "0-Audience Aware-1.a",
         "shape": "poly",
         "coords": [
             77,
@@ -12,11 +12,11 @@
             93,
             374
         ],
-        "preFillColor": "#A3E635",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-August-1.b",
+        "name": "0-EduAlly-1.b",
         "shape": "poly",
         "coords": [
             93,
@@ -32,63 +32,111 @@
         "fillColor": "#000000"
     },
     {
-        "name": "8-Lines and Letters-2",
+        "name": "0-Team 12-2.a",
         "shape": "poly",
         "coords": [
             124,
             359,
+            139,
+            366,
+            155,
+            358,
+            140,
+            351
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "0-Kitchen Coders-2.b",
+        "shape": "poly",
+        "coords": [
+            139,
+            366,
             155,
             374,
             170,
             366,
-            140,
-            351
+            155,
+            358
         ],
-        "preFillColor": "#A855F7",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "8-Stellar Surveillance-3",
+        "name": "0-Team 24-3.a",
         "shape": "poly",
         "coords": [
             171,
             335,
+            186,
+            342,
+            201,
+            335,
+            186,
+            328
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "8-Perihelion-3.b",
+        "shape": "poly",
+        "coords": [
+            186,
+            342,
             202,
             350,
             217,
             343,
-            186,
-            328
+            201,
+            335
         ],
         "preFillColor": "#A855F7",
         "fillColor": "#000000"
     },
     {
-        "name": "8-Quad Contest-4",
+        "name": "0-Newsly-4.a",
         "shape": "poly",
         "coords": [
             217,
             311,
+            232,
+            319,
+            248,
+            312,
+            233,
+            304
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "0-EduAlly-4.b",
+        "shape": "poly",
+        "coords": [
+            232,
+            319,
             248,
             327,
             263,
             320,
-            233,
-            304
+            248,
+            312
         ],
-        "preFillColor": "#A855F7",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Sternfahrt-5",
+        "name": "0-Group 14-5.a",
         "shape": "poly",
         "coords": [
             264,
             289,
+            279,
+            296,
             294,
-            304,
-            310,
-            297,
+            289,
             279,
             281
         ],
@@ -96,895 +144,31 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Mercedes Kart-7",
+        "name": "0-Dreamscape-5.b",
         "shape": "poly",
         "coords": [
-            357,
-            241,
-            388,
-            257,
-            403,
-            249,
-            373,
-            234
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Krrish Chawla-8.a",
-        "shape": "poly",
-        "coords": [
-            404,
-            218,
-            419,
-            225,
-            435,
-            218,
-            420,
-            211
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Neural Compression for Satellite Imagery-9.a",
-        "shape": "poly",
-        "coords": [
-            450,
-            194,
-            466,
-            202,
-            481,
-            195,
-            466,
-            187
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Atem-9.b",
-        "shape": "poly",
-        "coords": [
-            466,
-            202,
-            482,
-            210,
-            496,
-            203,
-            481,
-            195
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Panna Cotta-10.a",
-        "shape": "poly",
-        "coords": [
-            497,
-            172,
-            512,
-            179,
-            527,
-            172,
-            512,
-            165
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Ashish Rao-10.b",
-        "shape": "poly",
-        "coords": [
-            512,
-            179,
-            528,
-            187,
-            542,
-            180,
-            527,
-            172
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-ExPLoRA-11.a",
-        "shape": "poly",
-        "coords": [
-            544,
-            148,
-            559,
-            155,
-            573,
-            148,
-            559,
-            141
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Emily Okabe-11.b",
-        "shape": "poly",
-        "coords": [
-            559,
-            155,
-            574,
-            163,
-            588,
-            156,
-            573,
-            148
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Aniketh's Research-12.a",
-        "shape": "poly",
-        "coords": [
-            589,
-            125,
-            605,
-            132,
-            620,
-            125,
-            605,
-            118
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Expressive Quadruped Behavior-12.b",
-        "shape": "poly",
-        "coords": [
-            605,
-            132,
-            621,
-            140,
-            635,
-            133,
-            620,
-            125
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Daniel Kim-13.a",
-        "shape": "poly",
-        "coords": [
-            635,
-            102,
-            651,
-            109,
-            666,
-            102,
-            651,
-            94
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Stream of Search (SoS): Learning to Search in Language-13.b",
-        "shape": "poly",
-        "coords": [
-            651,
-            109,
-            667,
-            117,
-            682,
-            110,
-            666,
-            102
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Classifying the Oceanographic Landscape of Palmyra Atoll: A Machine Learning Approach for High Resolution CTD Analysis-14.a",
-        "shape": "poly",
-        "coords": [
-            151,
-            406,
-            166,
-            414,
-            181,
-            406,
-            166,
-            399
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Emotom-14.b",
-        "shape": "poly",
-        "coords": [
-            166,
-            414,
-            182,
-            422,
-            197,
-            414,
-            181,
-            406
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "8-Blockheads-15.a",
-        "shape": "poly",
-        "coords": [
-            198,
-            383,
-            213,
-            390,
-            228,
-            383,
-            213,
-            376
-        ],
-        "preFillColor": "#A855F7",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-ReQuest-15.b",
-        "shape": "poly",
-        "coords": [
-            213,
-            390,
-            228,
-            398,
-            243,
-            391,
-            228,
-            383
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-Poole-16",
-        "shape": "poly",
-        "coords": [
-            245,
-            360,
-            275,
-            375,
-            290,
-            368,
-            259,
-            353
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-Love Alarm-17",
-        "shape": "poly",
-        "coords": [
-            291,
-            336,
-            321,
-            351,
-            335,
-            344,
-            305,
-            329
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-Flex-18",
-        "shape": "poly",
-        "coords": [
-            337,
-            313,
-            368,
-            328,
-            383,
-            321,
-            352,
-            306
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-Muse-19.a",
-        "shape": "poly",
-        "coords": [
-            387,
-            290,
-            401,
-            297,
-            415,
-            290,
-            400,
-            283
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-Relative Refresh-20",
-        "shape": "poly",
-        "coords": [
-            432,
-            266,
-            462,
-            281,
-            476,
-            274,
-            446,
-            259
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "3-Upcyclo-21",
-        "shape": "poly",
-        "coords": [
-            479,
-            243,
-            508,
-            258,
-            523,
-            251,
-            493,
-            236
-        ],
-        "preFillColor": "#4ADE80",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-GenreGenius-22.a",
-        "shape": "poly",
-        "coords": [
-            525,
-            219,
-            540,
-            226,
-            554,
-            220,
-            539,
-            213
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-SRK-23.a",
-        "shape": "poly",
-        "coords": [
-            571,
-            197,
-            586,
-            204,
-            600,
-            196,
-            586,
-            189
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Team Fine Ants, Bro!-24",
-        "shape": "poly",
-        "coords": [
-            617,
-            173,
-            648,
-            188,
-            662,
-            181,
-            633,
-            166
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Government Organization Chart-25.a",
-        "shape": "poly",
-        "coords": [
-            664,
-            150,
-            679,
-            157,
-            693,
-            150,
-            678,
-            143
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "11-RECUMA-26.a",
-        "shape": "poly",
-        "coords": [
-            711,
-            127,
-            726,
-            134,
-            740,
-            127,
-            725,
-            120
-        ],
-        "preFillColor": "#34D399",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Bitdefender-26.b",
-        "shape": "poly",
-        "coords": [
-            726,
-            134,
-            741,
-            142,
-            755,
-            135,
-            740,
-            127
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Deep Learning for Extracting Structured Scientific Data-27.a",
-        "shape": "poly",
-        "coords": [
-            208,
-            446,
-            223,
-            453,
-            237,
-            446,
-            222,
-            439
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-NewsByte-27.b",
-        "shape": "poly",
-        "coords": [
-            223,
-            453,
-            238,
-            461,
-            252,
-            454,
-            237,
-            446
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "13-NiT-28",
-        "shape": "poly",
-        "coords": [
-            254,
-            423,
-            286,
-            438,
-            299,
-            431,
-            268,
-            416
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "2-Herd-29",
-        "shape": "poly",
-        "coords": [
-            301,
-            399,
-            332,
-            415,
-            345,
-            408,
-            315,
-            393
-        ],
-        "preFillColor": "#2dd4bf",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "2-Purple Pandas-30",
-        "shape": "poly",
-        "coords": [
-            348,
-            376,
-            378,
-            391,
-            391,
-            384,
-            362,
-            370
-        ],
-        "preFillColor": "#2dd4bf",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "6-Team 22-31",
-        "shape": "poly",
-        "coords": [
-            394,
-            353,
-            424,
-            368,
-            438,
-            361,
-            409,
-            346
-        ],
-        "preFillColor": "#A3E635",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-PocketPick-32",
-        "shape": "poly",
-        "coords": [
-            442,
-            329,
-            472,
-            344,
-            486,
-            337,
-            456,
-            322
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Kenja-33",
-        "shape": "poly",
-        "coords": [
-            488,
-            307,
-            518,
-            321,
-            533,
-            314,
-            503,
-            299
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-FilmFlicks-34.a",
-        "shape": "poly",
-        "coords": [
-            535,
-            283,
-            550,
-            290,
-            563,
-            283,
-            548,
-            276
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Retrospect-35.a",
-        "shape": "poly",
-        "coords": [
-            581,
-            259,
-            596,
-            266,
-            610,
-            260,
-            595,
-            253
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Translation-35.b",
-        "shape": "poly",
-        "coords": [
-            596,
-            266,
-            611,
-            274,
-            625,
-            268,
-            610,
-            260
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Team 7-37",
-        "shape": "poly",
-        "coords": [
-            675,
-            213,
-            704,
-            228,
-            717,
-            221,
-            689,
-            207
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-InterviewIQ (Team 4)-38",
-        "shape": "poly",
-        "coords": [
-            721,
-            190,
-            749,
-            204,
-            763,
-            198,
-            734,
-            183
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Eyeris-39",
-        "shape": "poly",
-        "coords": [
-            767,
-            167,
-            797,
-            182,
-            810,
-            175,
-            781,
-            159
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Receipts-40.a",
-        "shape": "poly",
-        "coords": [
-            337,
-            443,
-            352,
-            450,
-            364,
-            444,
-            349,
-            437
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Team CHATuchak-42",
-        "shape": "poly",
-        "coords": [
-            502,
-            361,
-            532,
-            376,
-            546,
-            369,
-            516,
-            354
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Shine-43",
-        "shape": "poly",
-        "coords": [
-            592,
-            316,
-            621,
-            331,
-            635,
-            325,
-            605,
-            310
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Pediatric Apple Watch Study-44.a",
-        "shape": "poly",
-        "coords": [
-            635,
-            295,
-            650,
-            302,
-            663,
-            295,
-            648,
-            288
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "6-PinCS-45.a",
-        "shape": "poly",
-        "coords": [
-            753,
-            235,
-            768,
-            242,
-            781,
-            236,
-            767,
-            229
-        ],
-        "preFillColor": "#A3E635",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-labib tazwar rahman-45.b",
-        "shape": "poly",
-        "coords": [
-            768,
-            242,
-            783,
-            250,
-            796,
-            244,
-            781,
-            236
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "6-Team 16-46",
-        "shape": "poly",
-        "coords": [
-            797,
-            214,
-            827,
-            228,
-            840,
-            222,
-            810,
-            208
-        ],
-        "preFillColor": "#A3E635",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Financier-47",
-        "shape": "poly",
-        "coords": [
-            431,
-            465,
-            461,
-            481,
-            475,
-            474,
-            445,
-            459
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Hummingbird-52",
-        "shape": "poly",
-        "coords": [
-            774,
+            279,
+            296,
             294,
-            805,
-            309,
-            819,
-            302,
-            788,
-            287
+            304,
+            310,
+            297,
+            294,
+            289
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-LightningMail-53",
-        "shape": "poly",
-        "coords": [
-            832,
-            265,
-            863,
-            280,
-            876,
-            273,
-            847,
-            258
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Promptflow-54",
-        "shape": "poly",
-        "coords": [
-            890,
-            236,
-            920,
-            251,
-            934,
-            245,
-            904,
-            230
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "4-TreeListings-48",
-        "shape": "poly",
-        "coords": [
-            494,
-            434,
-            525,
-            449,
-            539,
-            442,
-            509,
-            427
-        ],
-        "preFillColor": "#818cf8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Moosh-36",
-        "shape": "poly",
-        "coords": [
-            628,
-            236,
-            659,
-            251,
-            671,
-            245,
-            641,
-            230
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-KERBY-6",
+        "name": "0-TreeScript-6.a",
         "shape": "poly",
         "coords": [
             312,
             264,
-            342,
-            279,
-            357,
-            272,
+            327,
+            271,
+            341,
+            264,
             326,
             257
         ],
@@ -992,209 +176,33 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Silk AI-41",
+        "name": "0-Tracy-6.b",
         "shape": "poly",
         "coords": [
-            383,
-            420,
-            413,
-            435,
-            427,
-            428,
-            397,
-            414
+            327,
+            271,
+            342,
+            279,
+            357,
+            272,
+            341,
+            264
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "6-City ReVamp-25.b",
+        "name": "0-GoldenNest-7.a",
         "shape": "poly",
         "coords": [
-            679,
-            157,
-            694,
-            165,
-            708,
-            158,
-            693,
-            150
-        ],
-        "preFillColor": "#A3E635",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Kenny O.-49.b",
-        "shape": "poly",
-        "coords": [
-            585,
-            403,
-            600,
-            411,
-            614,
-            405,
-            599,
-            397
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Jambo-34.b",
-        "shape": "poly",
-        "coords": [
-            550,
-            290,
-            565,
-            297,
-            579,
-            291,
-            563,
-            283
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "7-Team 15-50",
-        "shape": "poly",
-        "coords": [
-            633,
-            365,
-            663,
-            380,
-            676,
+            357,
+            241,
+            372,
+            249,
+            388,
+            241,
             373,
-            646,
-            359
-        ],
-        "preFillColor": "#FB923C",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-KeepUp-51",
-        "shape": "poly",
-        "coords": [
-            699,
-            332,
-            730,
-            347,
-            745,
-            340,
-            714,
-            325
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Michael Byun-8.b",
-        "shape": "poly",
-        "coords": [
-            419,
-            225,
-            434,
-            233,
-            450,
-            226,
-            435,
-            218
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Learning Robotic Manipulation from Human Video-40.b",
-        "shape": "poly",
-        "coords": [
-            352,
-            450,
-            367,
-            458,
-            379,
-            452,
-            364,
-            444
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Storybook AI-19.b",
-        "shape": "poly",
-        "coords": [
-            401,
-            297,
-            416,
-            304,
-            431,
-            297,
-            415,
-            290
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-MIRIAD-44.b",
-        "shape": "poly",
-        "coords": [
-            650,
-            302,
-            665,
-            310,
-            678,
-            303,
-            663,
-            295
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Schoolhouse AI Feedback-22.b",
-        "shape": "poly",
-        "coords": [
-            540,
-            226,
-            555,
-            234,
-            569,
-            227,
-            554,
-            220
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-ThermaQuest-23.b",
-        "shape": "poly",
-        "coords": [
-            586,
-            204,
-            602,
-            211,
-            615,
-            204,
-            600,
-            196
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-TripSage-49.a",
-        "shape": "poly",
-        "coords": [
-            570,
-            396,
-            585,
-            403,
-            599,
-            397,
-            584,
-            390
+            234
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
