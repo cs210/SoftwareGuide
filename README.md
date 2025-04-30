@@ -1,25 +1,35 @@
-# [Software Faire Guide](https://cs210.github.io/SoftwareGuide/)
-## Testing
+# Software Fair Guide
 
-First, run the development server:
+A display of all the projects in Stanford's CS 210 and 194! Check out the link [here](https://cs210.github.io/SoftwareGuide/)!
 
+## To Run
+
+### Frontend
+
+First, install all necessary dependencies:
+```bash
+npm run install
+```
+
+Next, run the development server:
 ```bash
 npm run dev
 ```
 
-Note that this website is hosted on github io pages. With the correct
-Repo configuraitons you can simply push to main to update the software guide.
+### Backend Scripts
 
-## Updating the Software Guide
-To update team information for the software guide you need only touch the
-.csv files inside of update_software_guide. Once each relevant .csv has 
-been updated you can run 
+First, make a copy of the Google Form found [here](https://docs.google.com/forms/d/e/1FAIpQLScfF8IDrwYKKic6A2kVAI_DdzyTwEtYoIVHfNsN-zVDyOiH9A/viewform) for the corresponding year. Then, after you have all of the responses, download the `.csv` file and name it `input.csv`. Finally, feel free to edit `categories.csv` -- to include and/or remove categories for projects -- as well as edit `layout.csv`.
 
+Finally, once you're all ready, run the main script to generate the necessary data:
 ```bash
-python .\software_guide_generator.py
+python3 software_guide_generator.py
 ```
-This will automatically write the relevent .json files and code to the 
-Next.js project and update the software guide. 
+
+## Contribution
+
+The CI/CD pipeline is configured to push automatically to GitHub pages upon push.
+
+## Old Notes
 
 ### How to change teaminfo
 Note that all of the team information can be found team_info.csv inside of the update_software_guide folder.
@@ -30,3 +40,4 @@ set to the AI category color if it is an AI-relevant project; otherwise, it will
 ### How to add categories
 If you would like to add categories, edit the categories.csv file within the update_software_guide folder. Add
 a name and associated tailwind UI color.
+

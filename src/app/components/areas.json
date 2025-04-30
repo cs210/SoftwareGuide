@@ -206,5 +206,21 @@
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
+    },
+    {
+        "name": "0-Team: LEMNS, Project: Voyager-1",
+        "shape": "poly",
+        "coords": [
+            77,
+            381,
+            109,
+            397,
+            124,
+            390,
+            93,
+            374
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
     }
 ]

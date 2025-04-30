@@ -6,6 +6,42 @@ import ast
 DEFAULT_FILL_COLOR = "#ffffff"
 CLICK_FILL_COLOR = "#000000"
 
+# Convert the raw Google Form CSV into the updated CSV.
+def convert_csv(input_path, output_path):
+    with open(input_path, mode='r', encoding='utf-8') as infile, open(output_path, mode='w', newline='', encoding='utf-8') as outfile:
+        reader = csv.DictReader(infile)
+        fieldnames = ['team', 'table_num', 'members', 'description', 'categories', 'has_ai']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        writer.writeheader()
+
+        table_counter_194 = 1
+        table_counter_210 = 1
+
+        for row in reader:
+            course = row['Which course number for your team (you)']
+            team = row['Team Name'].strip()
+            members = row['Names of individuals on the team'].strip().replace(';', ',')
+            description = row['Please provide a brief description of your project as you wish it to appear in the Software Fair Program Guide'].strip()
+            categories = row['Please check any genres to which you believe your project belongs'].strip()
+            has_ai = row['Is your project AI-related?'].strip()
+
+            if '194' in course:
+                suffix = 'a' if table_counter_194 % 2 == 1 else 'b'
+                table_num = f"{(table_counter_194 + 1) // 2}.{suffix}"
+                table_counter_194 += 1
+            else:  # assume 210
+                table_num = str(table_counter_210)
+                table_counter_210 += 1
+
+            writer.writerow({
+                'team': team,
+                'table_num': table_num,
+                'members': members,
+                'description': description,
+                'categories': categories,
+                'has_ai': has_ai
+            })
+
 # Function to safely convert string to list
 def convert_str_to_list(str_list):
     try:
@@ -180,5 +216,7 @@ def generate_team_info(team_data, section_num):
 
     return team_info
 
-generate_category_map_from_csv("categories.csv")
-process_teams_and_generate_json("team_info.csv", "layout.csv", "categories.csv")
+if __name__ == "__main__":
+    convert_csv("data/input.csv", "data/team_info.csv")
+    generate_category_map_from_csv("data/categories.csv")
+    process_teams_and_generate_json("data/team_info.csv", "data/layout.csv", "data/categories.csv")

@@ -7,7 +7,7 @@
             "Education",
             "AI"
         ],
-        "teamMembers": "Anushka, Kyle, Ben, Julian, Gustavo ",
+        "teamMembers": "Anushka, Kyle, Ben, Julian, Gustavo",
         "sectionNum": 0
     },
     {
@@ -49,7 +49,7 @@
     {
         "teamName": "Team 24",
         "teamNum": "3.a",
-        "description": "We are building an expense management platform for campus communities. ",
+        "description": "We are building an expense management platform for campus communities.",
         "categories": [
             "Business/Office",
             "Education",
@@ -73,14 +73,14 @@
     {
         "teamName": "Newsly",
         "teamNum": "4.a",
-        "description": "Newsly helps the public to deeply engage with the news\u2014not just consume it.  The app compares, contrasts, and contextualizes related articles from all sides of the political spectrum, prompting users to think critically about current stories. We hope Newsly helps users navigate their political blind spots and stay informed by critically engaging with current affairs. Newsly is news from everywhere, for everyone. ",
+        "description": "Newsly helps the public to deeply engage with the news\u2014not just consume it.  The app compares, contrasts, and contextualizes related articles from all sides of the political spectrum, prompting users to think critically about current stories. We hope Newsly helps users navigate their political blind spots and stay informed by critically engaging with current affairs. Newsly is news from everywhere, for everyone.",
         "categories": [
             "Education",
             "Productivity",
             "Social Good",
             "AI"
         ],
-        "teamMembers": "Andrew Bempong, Avi Udash, Sabino Hernandez Jr, Elina Mirbaha, Adrian Lafuente ",
+        "teamMembers": "Andrew Bempong, Avi Udash, Sabino Hernandez Jr, Elina Mirbaha, Adrian Lafuente",
         "sectionNum": 0
     },
     {
@@ -91,7 +91,7 @@
             "Education",
             "AI"
         ],
-        "teamMembers": "Andrew Wu, Yahaya Ndutu, Cameron Krouch, Robert DiDonato, Felix Zhan  ",
+        "teamMembers": "Andrew Wu, Yahaya Ndutu, Cameron Krouch, Robert DiDonato, Felix Zhan",
         "sectionNum": 0
     },
     {
@@ -125,7 +125,7 @@
             "Productivity",
             "AI"
         ],
-        "teamMembers": "Avery Voss, Hayden Kwan, Renee White, Leyth Toubassy, Abranette Barry",
+        "teamMembers": "TreeScript",
         "sectionNum": 0
     },
     {
@@ -151,7 +151,18 @@
             "Social Good",
             "AI"
         ],
-        "teamMembers": " Sarah Dong;  Emma Hong; Bhumikorn Kongtaveelert; Anne Liang; Nathania Lim;",
+        "teamMembers": "Sarah Dong,  Emma Hong, Bhumikorn Kongtaveelert, Anne Liang, Nathania Lim,",
+        "sectionNum": 0
+    },
+    {
+        "teamName": "Team: LEMNS, Project: Voyager",
+        "teamNum": "1",
+        "description": "Voyager is a platform for centralized, personalized, and AI-powered travel planning. Our website helps users plan every single step of their trip, providing recommendations for transportation, hotels, and activities, and creates a unique, personally curated itinerary that can be shared with friends & family. Enjoy planning your next trip with the help of Voyager!",
+        "categories": [
+            "Leisure/Travel",
+            "AI"
+        ],
+        "teamMembers": "Maya Chandra, Sherry Xie, Eleanor Peng, Lorenzo Ahn, Nathan Mohit",
         "sectionNum": 0
     }
 ]
