@@ -43,7 +43,7 @@ const categoryMap = {
     "section": "10",
     "color": "bg-red-800"
   },
-  "Research": {
+  "Social Good": {
     "section": "11",
     "color": "bg-emerald-400"
   },
