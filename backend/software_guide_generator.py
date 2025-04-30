@@ -8,39 +8,44 @@ CLICK_FILL_COLOR = "#000000"
 
 # Convert the raw Google Form CSV into the updated CSV.
 def convert_csv(input_path, output_path):
-    with open(input_path, mode='r', encoding='utf-8') as infile, open(output_path, mode='w', newline='', encoding='utf-8') as outfile:
-        reader = csv.DictReader(infile)
-        fieldnames = ['team', 'table_num', 'members', 'description', 'categories', 'has_ai']
-        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
-        writer.writeheader()
-
+    with open(input_path, mode='r', encoding='utf-8') as infile:
+        reader = list(csv.DictReader(infile))
+        
+        # First pass: count 194 teams
+        num_194_teams = sum(1 for row in reader if '194' in row['Which course number for your team (you)'])
+        max_194_table_num = (num_194_teams + 1) // 2  # e.g. 5 teams => 3 tables (1.a, 1.b, 2.a, 2.b, 3.a)
         table_counter_194 = 1
-        table_counter_210 = 1
+        table_counter_210 = max_194_table_num + 1  # Start after 194 tables to avoid overlap
 
-        for row in reader:
-            course = row['Which course number for your team (you)']
-            team = row['Team Name'].strip()
-            members = row['Names of individuals on the team'].strip().replace(';', ',')
-            description = row['Please provide a brief description of your project as you wish it to appear in the Software Fair Program Guide'].strip()
-            categories = row['Please check any genres to which you believe your project belongs'].strip()
-            has_ai = row['Is your project AI-related?'].strip()
+        with open(output_path, mode='w', newline='', encoding='utf-8') as outfile:
+            fieldnames = ['team', 'table_num', 'members', 'description', 'categories', 'has_ai']
+            writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+            writer.writeheader()
 
-            if '194' in course:
-                suffix = 'a' if table_counter_194 % 2 == 1 else 'b'
-                table_num = f"{(table_counter_194 + 1) // 2}.{suffix}"
-                table_counter_194 += 1
-            else:  # assume 210
-                table_num = str(table_counter_210)
-                table_counter_210 += 1
+            for row in reader:
+                course = row['Which course number for your team (you)']
+                team = row['Team Name'].strip()
+                members = row['Names of individuals on the team'].strip().replace(';', ',')
+                description = row['Please provide a brief description of your project as you wish it to appear in the Software Fair Program Guide'].strip()
+                categories = row['Please check any genres to which you believe your project belongs'].strip()
+                has_ai = row['Is your project AI-related?'].strip()
 
-            writer.writerow({
-                'team': team,
-                'table_num': table_num,
-                'members': members,
-                'description': description,
-                'categories': categories,
-                'has_ai': has_ai
-            })
+                if '194' in course:
+                    suffix = 'a' if table_counter_194 % 2 == 1 else 'b'
+                    table_num = f"{(table_counter_194 + 1) // 2}.{suffix}"
+                    table_counter_194 += 1
+                else:  # assume 210
+                    table_num = str(table_counter_210)
+                    table_counter_210 += 1
+
+                writer.writerow({
+                    'team': team,
+                    'table_num': table_num,
+                    'members': members,
+                    'description': description,
+                    'categories': categories,
+                    'has_ai': has_ai
+                })
 
 # Function to safely convert string to list
 def convert_str_to_list(str_list):

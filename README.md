@@ -22,6 +22,7 @@ First, make a copy of the Google Form found [here](https://docs.google.com/forms
 
 Finally, once you're all ready, run the main script to generate the necessary data:
 ```bash
+cd backend
 python3 software_guide_generator.py
 ```
 

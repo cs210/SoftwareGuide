@@ -208,17 +208,17 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Team: LEMNS, Project: Voyager-1",
+        "name": "0-Team: LEMNS, Project: Voyager-8",
         "shape": "poly",
         "coords": [
-            77,
-            381,
-            109,
-            397,
-            124,
-            390,
-            93,
-            374
+            404,
+            218,
+            434,
+            233,
+            450,
+            226,
+            420,
+            211
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
