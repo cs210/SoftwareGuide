@@ -13,9 +13,8 @@ def convert_csv(input_path, output_path):
         
         # First pass: count 194 teams
         num_194_teams = sum(1 for row in reader if '194' in row['Which course number for your team (you)'])
-        max_194_table_num = (num_194_teams + 1) // 2  # e.g. 5 teams => 3 tables (1.a, 1.b, 2.a, 2.b, 3.a)
         table_counter_194 = 1
-        table_counter_210 = max_194_table_num + 1  # Start after 194 tables to avoid overlap
+        table_counter_210 = num_194_teams + 1  # Start after all 194 tables
 
         with open(output_path, mode='w', newline='', encoding='utf-8') as outfile:
             fieldnames = ['team', 'table_num', 'members', 'description', 'categories', 'has_ai']
@@ -31,8 +30,7 @@ def convert_csv(input_path, output_path):
                 has_ai = row['Is your project AI-related?'].strip()
 
                 if '194' in course:
-                    suffix = 'a' if table_counter_194 % 2 == 1 else 'b'
-                    table_num = f"{(table_counter_194 + 1) // 2}.{suffix}"
+                    table_num = str(table_counter_194)
                     table_counter_194 += 1
                 else:  # assume 210
                     table_num = str(table_counter_210)
@@ -170,7 +168,6 @@ def process_teams_and_generate_json(team_file_path, layout_file_path, categories
             # Code that sets preference for revealing projects with AI
             ai_related = row['has_ai']
             main_category = row["categories"].split(", ")[0]
-            print(main_category)
             if (ai_related == "Yes"):
                 main_category = "AI"
                 row["categories"]+=", AI"
