@@ -14,7 +14,7 @@ def convert_csv(input_path, output_path):
         # First pass: count 194 teams
         num_194_teams = sum(1 for row in reader if '194' in row['Which course number for your team (you)'])
         table_counter_194 = 1
-        table_counter_210 = 24  # Start at 25, right after the last 194 table (24.b)
+        table_counter_210 = 23  # Right after the last 194 table
         is_shared_table = False  # Flag to track if we're in a shared table
 
         with open(output_path, mode='w', newline='', encoding='utf-8') as outfile:

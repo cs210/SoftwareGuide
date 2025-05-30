@@ -48,7 +48,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Team 24-4",
+        "name": "8-Perihelion-4",
         "shape": "poly",
         "coords": [
             357,
@@ -60,11 +60,11 @@
             373,
             234
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#A855F7",
         "fillColor": "#000000"
     },
     {
-        "name": "8-Perihelion-5",
+        "name": "0-Newsly-5",
         "shape": "poly",
         "coords": [
             404,
@@ -76,11 +76,11 @@
             420,
             211
         ],
-        "preFillColor": "#A855F7",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Newsly-6",
+        "name": "0-EduAlly-6",
         "shape": "poly",
         "coords": [
             450,
@@ -96,7 +96,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-EduAlly-7",
+        "name": "0-Group 14-7",
         "shape": "poly",
         "coords": [
             497,
@@ -112,7 +112,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Group 14-8",
+        "name": "0-Dreamscape-8",
         "shape": "poly",
         "coords": [
             544,
@@ -128,7 +128,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Dreamscape-9",
+        "name": "0-TreeScript-9",
         "shape": "poly",
         "coords": [
             589,
@@ -144,7 +144,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-TreeScript-10",
+        "name": "0-Tracy-10",
         "shape": "poly",
         "coords": [
             635,
@@ -160,7 +160,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Tracy-11",
+        "name": "0-FaceCard-11",
         "shape": "poly",
         "coords": [
             291,
@@ -176,7 +176,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-FaceCard-12.a",
+        "name": "0-Dwarfy Notes-12.a",
         "shape": "poly",
         "coords": [
             337,
@@ -192,7 +192,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Dwarfy Notes-12.b",
+        "name": "0-Team-22-12.b",
         "shape": "poly",
         "coords": [
             352,
@@ -208,7 +208,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Team-22-13.a",
+        "name": "0-AnnotationForge-13.a",
         "shape": "poly",
         "coords": [
             387,
@@ -224,7 +224,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-AnnotationForge-13.b",
+        "name": "0-GPT Wrapped-13.b",
         "shape": "poly",
         "coords": [
             401,
@@ -240,7 +240,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-GPT Wrapped-14.a",
+        "name": "2-Breadcrumbs-14.a",
         "shape": "poly",
         "coords": [
             432,
@@ -252,11 +252,11 @@
             446,
             259
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#2dd4bf",
         "fillColor": "#000000"
     },
     {
-        "name": "2-Breadcrumbs-14.b",
+        "name": "0-Daft Punk-14.b",
         "shape": "poly",
         "coords": [
             447,
@@ -268,11 +268,11 @@
             461,
             266
         ],
-        "preFillColor": "#2dd4bf",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Daft Punk-15.a",
+        "name": "6-Codillon-15.a",
         "shape": "poly",
         "coords": [
             479,
@@ -284,11 +284,11 @@
             493,
             236
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#A3E635",
         "fillColor": "#000000"
     },
     {
-        "name": "6-Codillon-15.b",
+        "name": "0-Head Honchos-15.b",
         "shape": "poly",
         "coords": [
             493,
@@ -300,11 +300,11 @@
             508,
             243
         ],
-        "preFillColor": "#A3E635",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Head Honchos-16.a",
+        "name": "8-Big Cheese-16.a",
         "shape": "poly",
         "coords": [
             525,
@@ -316,11 +316,11 @@
             539,
             213
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#A855F7",
         "fillColor": "#000000"
     },
     {
-        "name": "8-Big Cheese-16.b",
+        "name": "3-Serv-16.b",
         "shape": "poly",
         "coords": [
             540,
@@ -332,11 +332,11 @@
             554,
             220
         ],
-        "preFillColor": "#A855F7",
+        "preFillColor": "#4ADE80",
         "fillColor": "#000000"
     },
     {
-        "name": "3-Serv-17.a",
+        "name": "2-A10TION-17.a",
         "shape": "poly",
         "coords": [
             571,
@@ -348,11 +348,11 @@
             586,
             189
         ],
-        "preFillColor": "#4ADE80",
+        "preFillColor": "#2dd4bf",
         "fillColor": "#000000"
     },
     {
-        "name": "2-A10TION-17.b",
+        "name": "0-Waitless-17.b",
         "shape": "poly",
         "coords": [
             586,
@@ -364,11 +364,11 @@
             600,
             196
         ],
-        "preFillColor": "#2dd4bf",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Waitless-18.a",
+        "name": "0-Unframed-18.a",
         "shape": "poly",
         "coords": [
             617,
@@ -384,23 +384,23 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Unframed-18.b",
+        "name": "0-Team: LEMNS, Project: Voyager-23",
         "shape": "poly",
         "coords": [
-            632,
-            180,
-            648,
-            188,
-            662,
-            181,
-            647,
-            173
+            442,
+            329,
+            472,
+            344,
+            486,
+            337,
+            456,
+            322
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Team: LEMNS, Project: Voyager-24",
+        "name": "0-Circle-24",
         "shape": "poly",
         "coords": [
             488,
@@ -416,7 +416,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Circle-25",
+        "name": "0-XeleR-25",
         "shape": "poly",
         "coords": [
             535,
@@ -432,7 +432,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-XeleR-26",
+        "name": "11-Sewing Coders-26",
         "shape": "poly",
         "coords": [
             581,
@@ -444,11 +444,11 @@
             595,
             253
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#991B1B",
         "fillColor": "#000000"
     },
     {
-        "name": "11-Sewing Coders-27",
+        "name": "0-ARchitects-27",
         "shape": "poly",
         "coords": [
             628,
@@ -460,11 +460,11 @@
             641,
             230
         ],
-        "preFillColor": "#991B1B",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-ARchitects-28",
+        "name": "0-DriftPrice-28",
         "shape": "poly",
         "coords": [
             675,
@@ -480,7 +480,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-DriftPrice-29",
+        "name": "0-Illusion-29",
         "shape": "poly",
         "coords": [
             721,
@@ -496,7 +496,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Illusion-30",
+        "name": "0-PriceSync-30",
         "shape": "poly",
         "coords": [
             767,
@@ -512,7 +512,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-PriceSync-31",
+        "name": "0-Tecer Futuro-31",
         "shape": "poly",
         "coords": [
             383,
@@ -528,7 +528,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Tecer Futuro-32",
+        "name": "3-Pivot-32",
         "shape": "poly",
         "coords": [
             502,
@@ -540,11 +540,11 @@
             516,
             354
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#4ADE80",
         "fillColor": "#000000"
     },
     {
-        "name": "3-Pivot-33",
+        "name": "10-Tripi-33",
         "shape": "poly",
         "coords": [
             592,
@@ -556,27 +556,27 @@
             605,
             310
         ],
-        "preFillColor": "#4ADE80",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "10-Tripi-34",
-        "shape": "poly",
-        "coords": [
-            635,
-            295,
-            665,
-            310,
-            678,
-            303,
-            648,
-            288
-        ],
         "preFillColor": "#22D3EE",
         "fillColor": "#000000"
     },
     {
-        "name": "0-ItinerEasy-19.a",
+        "name": "0-ItinerEasy-18.b",
+        "shape": "poly",
+        "coords": [
+            632,
+            180,
+            648,
+            188,
+            662,
+            181,
+            647,
+            173
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "14-JamSesh-19.a",
         "shape": "poly",
         "coords": [
             664,
@@ -588,11 +588,11 @@
             678,
             143
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#38BDF8",
         "fillColor": "#000000"
     },
     {
-        "name": "14-JamSesh-19.b",
+        "name": "14-Team 23: Cove-19.b",
         "shape": "poly",
         "coords": [
             679,
@@ -608,7 +608,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "14-Team 23: Cove-20",
+        "name": "0-GoldenNest-20",
         "shape": "poly",
         "coords": [
             711,
@@ -620,11 +620,27 @@
             725,
             120
         ],
-        "preFillColor": "#38BDF8",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-GoldenNest-21",
+        "name": "0-Stitcha-34",
+        "shape": "poly",
+        "coords": [
+            635,
+            295,
+            665,
+            310,
+            678,
+            303,
+            648,
+            288
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "0-Team 16: Clarity-21",
         "shape": "poly",
         "coords": [
             348,
@@ -640,23 +656,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Stitcha-35",
-        "shape": "poly",
-        "coords": [
-            753,
-            235,
-            783,
-            250,
-            796,
-            244,
-            767,
-            229
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Team 16: Clarity-22",
+        "name": "7-FairShare-22",
         "shape": "poly",
         "coords": [
             394,
@@ -667,22 +667,6 @@
             361,
             409,
             346
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "7-FairShare-23",
-        "shape": "poly",
-        "coords": [
-            442,
-            329,
-            472,
-            344,
-            486,
-            337,
-            456,
-            322
         ],
         "preFillColor": "#FB923C",
         "fillColor": "#000000"
