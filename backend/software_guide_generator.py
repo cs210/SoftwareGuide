@@ -14,7 +14,8 @@ def convert_csv(input_path, output_path):
         # First pass: count 194 teams
         num_194_teams = sum(1 for row in reader if '194' in row['Which course number for your team (you)'])
         table_counter_194 = 1
-        table_counter_210 = num_194_teams + 1  # Start after all 194 tables
+        table_counter_210 = 24  # Start at 25, right after the last 194 table (24.b)
+        is_shared_table = False  # Flag to track if we're in a shared table
 
         with open(output_path, mode='w', newline='', encoding='utf-8') as outfile:
             fieldnames = ['team', 'table_num', 'members', 'description', 'categories', 'has_ai']
@@ -30,8 +31,17 @@ def convert_csv(input_path, output_path):
                 has_ai = row['Is your project AI-related?'].strip()
 
                 if '194' in course:
-                    table_num = str(table_counter_194)
-                    table_counter_194 += 1
+                    if 12 <= table_counter_194 <= 19:
+                        if not is_shared_table:
+                            table_num = f"{table_counter_194}.a"
+                            is_shared_table = True
+                        else:
+                            table_num = f"{table_counter_194}.b"
+                            is_shared_table = False
+                            table_counter_194 += 1
+                    else:
+                        table_num = str(table_counter_194)
+                        table_counter_194 += 1
                 else:  # assume 210
                     table_num = str(table_counter_210)
                     table_counter_210 += 1
