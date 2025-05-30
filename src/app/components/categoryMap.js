@@ -39,24 +39,28 @@ const categoryMap = {
     "section": "9",
     "color": "bg-yellow-400"
   },
-  "Productivity": {
+  "Leisure/Travel": {
     "section": "10",
+    "color": "bg-cyan-400"
+  },
+  "Productivity": {
+    "section": "11",
     "color": "bg-red-800"
   },
   "Social Good": {
-    "section": "11",
+    "section": "12",
     "color": "bg-emerald-400"
   },
   "Security": {
-    "section": "12",
+    "section": "13",
     "color": "bg-fuchsia-500"
   },
   "Social Media": {
-    "section": "13",
+    "section": "14",
     "color": "bg-sky-400"
   },
   "XR": {
-    "section": "14",
+    "section": "15",
     "color": "bg-amber-500"
   }
 };

@@ -170,6 +170,7 @@ def process_teams_and_generate_json(team_file_path, layout_file_path, categories
             # Code that sets preference for revealing projects with AI
             ai_related = row['has_ai']
             main_category = row["categories"].split(", ")[0]
+            print(main_category)
             if (ai_related == "Yes"):
                 main_category = "AI"
                 row["categories"]+=", AI"
