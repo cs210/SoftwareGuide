@@ -304,7 +304,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "8-Big Cheese-16.a",
+        "name": "3-Serv-16.a",
         "shape": "poly",
         "coords": [
             525,
@@ -316,11 +316,11 @@
             539,
             213
         ],
-        "preFillColor": "#A855F7",
+        "preFillColor": "#4ADE80",
         "fillColor": "#000000"
     },
     {
-        "name": "3-Serv-16.b",
+        "name": "2-A10TION-16.b",
         "shape": "poly",
         "coords": [
             540,
@@ -332,11 +332,11 @@
             554,
             220
         ],
-        "preFillColor": "#4ADE80",
+        "preFillColor": "#2dd4bf",
         "fillColor": "#000000"
     },
     {
-        "name": "2-A10TION-17.a",
+        "name": "0-Waitless-17.a",
         "shape": "poly",
         "coords": [
             571,
@@ -348,11 +348,11 @@
             586,
             189
         ],
-        "preFillColor": "#2dd4bf",
+        "preFillColor": "#EF4444",
         "fillColor": "#000000"
     },
     {
-        "name": "0-Waitless-17.b",
+        "name": "0-Unframed-17.b",
         "shape": "poly",
         "coords": [
             586,
@@ -363,22 +363,6 @@
             204,
             600,
             196
-        ],
-        "preFillColor": "#EF4444",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-Unframed-18.a",
-        "shape": "poly",
-        "coords": [
-            617,
-            173,
-            632,
-            180,
-            647,
-            173,
-            633,
-            166
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
@@ -560,7 +544,23 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-ItinerEasy-18.b",
+        "name": "0-ItinerEasy-18.a",
+        "shape": "poly",
+        "coords": [
+            617,
+            173,
+            632,
+            180,
+            647,
+            173,
+            633,
+            166
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "14-JamSesh-18.b",
         "shape": "poly",
         "coords": [
             632,
@@ -572,11 +572,11 @@
             647,
             173
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#38BDF8",
         "fillColor": "#000000"
     },
     {
-        "name": "14-JamSesh-19.a",
+        "name": "14-Team 23: Cove-19.a",
         "shape": "poly",
         "coords": [
             664,
@@ -592,7 +592,7 @@
         "fillColor": "#000000"
     },
     {
-        "name": "14-Team 23: Cove-19.b",
+        "name": "0-GoldenNest-19.b",
         "shape": "poly",
         "coords": [
             679,
@@ -603,22 +603,6 @@
             158,
             693,
             150
-        ],
-        "preFillColor": "#38BDF8",
-        "fillColor": "#000000"
-    },
-    {
-        "name": "0-GoldenNest-20",
-        "shape": "poly",
-        "coords": [
-            711,
-            127,
-            741,
-            142,
-            755,
-            135,
-            725,
-            120
         ],
         "preFillColor": "#EF4444",
         "fillColor": "#000000"
@@ -640,7 +624,23 @@
         "fillColor": "#000000"
     },
     {
-        "name": "0-Team 16: Clarity-21",
+        "name": "0-Team 16: Clarity-20",
+        "shape": "poly",
+        "coords": [
+            711,
+            127,
+            741,
+            142,
+            755,
+            135,
+            725,
+            120
+        ],
+        "preFillColor": "#EF4444",
+        "fillColor": "#000000"
+    },
+    {
+        "name": "7-FairShare-21",
         "shape": "poly",
         "coords": [
             348,
@@ -652,11 +652,11 @@
             362,
             370
         ],
-        "preFillColor": "#EF4444",
+        "preFillColor": "#FB923C",
         "fillColor": "#000000"
     },
     {
-        "name": "7-FairShare-22",
+        "name": "8-Big Cheese-22",
         "shape": "poly",
         "coords": [
             394,
@@ -668,7 +668,7 @@
             409,
             346
         ],
-        "preFillColor": "#FB923C",
+        "preFillColor": "#A855F7",
         "fillColor": "#000000"
     }
 ]

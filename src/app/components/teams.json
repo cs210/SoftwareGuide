@@ -224,18 +224,8 @@
         "sectionNum": 0
     },
     {
-        "teamName": "Big Cheese",
-        "teamNum": "16.a",
-        "description": "Bred in a lab and raised as snake snacks, a scrappy group of mice dares to dream of something more\u2014freedom, fresh air, and a land overflowing with cheese. Welcome to BIG Cheese, a chaotic first-person, 3D, multiplayer escape game for 2\u20135 players, where you and your rodent crew must outwit your captors, scavenge supplies, and make your way from cage to Cheeseland.\n\nEach mouse has unique traits and upgradeable abilities, and every game session plays out differently as you sneak past baby humans, dodge prowling pets, and avoid the ever-watchful eye of the Scientist. Coordinate, scavenge, and survive together\u2014or get left behind.\n\nWill you become snake food... or legends of Cheeseland?",
-        "categories": [
-            "Games"
-        ],
-        "teamMembers": "Ana Nguyen, Myan Ngo, Thanh Tieu, Thu Le, Nicholas Bui",
-        "sectionNum": 8
-    },
-    {
         "teamName": "Serv",
-        "teamNum": "16.b",
+        "teamNum": "16.a",
         "description": "Serv is a personalized beauty booking app that helps students and young professionals discover and book local stylists, nail techs, and other beauty creators who match their unique style, budget, and location. Inspired by platforms like Instagram and Pinterest, Serv features an aesthetic-driven home feed powered by user preferences and social media data to recommend real portfolios from real creators. With built-in booking, third-party reviews, and direct messaging, Serv makes it easy to go from inspiration to appointment in just a few clicks. By combining the personalization of social media with the functionality of a marketplace, Serv brings trust, style, and simplicity to the beauty booking experience.",
         "categories": [
             "Business/Office",
@@ -247,7 +237,7 @@
     },
     {
         "teamName": "A10TION",
-        "teamNum": "17.a",
+        "teamNum": "16.b",
         "description": "A10TION is a mobile reminder app that uses dynamic visual cues\u2014like Duolingo\u2019s streak widget (with its mascot turning on glowing-red eyes as it nears midnight)\u2014to keep reminders from fading into the background. Traditional static notifications often get ignored; this app addresses that by making reminders visually evolve over time through color changes and subtle animation. As a deadline approaches, reminders and notifications shift in tone\u2014growing urgent-looking\u2014to catch the user\u2019s attention and signal increasing priority.",
         "categories": [
             "Behavior Change/Wellness",
@@ -258,7 +248,7 @@
     },
     {
         "teamName": "Waitless",
-        "teamNum": "17.b",
+        "teamNum": "17.a",
         "description": "WaitLess empowers patients and providers by proactively engaging patients through AI-driven phone conversations in between sessions. These conversations are meant to be short natural check-ins or behavioral activation calls to help patients start their day or task. By integrating with providers, it personalizes support based on each patient\u2019s treatment plan and progress, allowing providers to drive the AIs through their existing workflow and track flexible metrics. It uses an intelligent scheduling system to find the best time to call patients. The platform aims to improve outcomes and facilitate faster remission by providing 24/7 personalized care and making therapy sessions more efficient by giving providers more insights on what was going on with their patients in between sessions.",
         "categories": [
             "Healthcare",
@@ -269,7 +259,7 @@
     },
     {
         "teamName": "Unframed",
-        "teamNum": "18.a",
+        "teamNum": "17.b",
         "description": "Unframed is a web app that empowers travelers and locals to discover underground and niche art scenes around the world. Unlike mainstream guides, it connects you directly to pop-up exhibitions, live street performances, local jazz nights, and indie theater shows curated by local artists and organizers that you likely would not encounter from a quick Google search. After a brief onboarding quiz, Unframed tailors event recommendations to your interests, location, and vibe. Our app uses real-time listings, powerful search and filter tools, and saved collections to plan your own art crawl or stumble upon unexpected artistic experiences. Unframed prioritizes discovery and sharing, allowing users to not only discover niche artistic experiences, but also share events that they have stumbled upon or want to publicize as their own event, such as an artist wanting to promote one of their upcoming events.",
         "categories": [
             "Leisure/Travel",
@@ -414,7 +404,7 @@
     },
     {
         "teamName": "ItinerEasy",
-        "teamNum": "18.b",
+        "teamNum": "18.a",
         "description": "ItinerEasy is a revolutionary way to create and plan trips with your friends and family. Need help finding the perfect location, or maybe getting ideas for your day-to-day activities while hanging abroad? All the help you need is here with ItinerEasy. Easily share your plans with ItinerEasy's built-in group system and mood-board. It's never been easier to get the plan out of the groupchat!",
         "categories": [
             "Leisure/Travel",
@@ -426,7 +416,7 @@
     },
     {
         "teamName": "JamSesh",
-        "teamNum": "19.a",
+        "teamNum": "18.b",
         "description": "JamSesh is a platform for musicians to connect with other musicians with which to collaborate, and to find gigs at venues. Musicians can post photos and videos of their performances, list their music interests and skills, and are recommended other musicians they may like to watch or perform with in a feed page. Bands can make classified ads to search for musicians to join them, and venues can post requests for performers to play there.",
         "categories": [
             "Social Media"
@@ -436,7 +426,7 @@
     },
     {
         "teamName": "Team 23: Cove",
-        "teamNum": "19.b",
+        "teamNum": "19.a",
         "description": "Cove is a community organization platform that connects you to your alumni network and other invite-only groups.",
         "categories": [
             "Social Media"
@@ -446,7 +436,7 @@
     },
     {
         "teamName": "GoldenNest",
-        "teamNum": "20",
+        "teamNum": "19.b",
         "description": "GoldenNest is a personalized elderly care mobile app designed for residents in nursing homes and senior living. The mobile app addresses critical pain points like fragmented communication, manual scheduling, and isolation, providing a streamlined system that keeps everyone connected and informed. GoldenNest cultivates holistic wellness by centralizing communication between elderly individuals (60+), care providers, and their families at nursing homes through senior senior-friendly user interface, personalized events calendars, medicine and therapy tracker, as well as AI-recommended activities and community events. Designed to be integrated into nursing homes, we aim to build a robust, scalable platform that improves daily care coordination and enriches seniors\u2019 quality of life through accessible technology and personalized support.",
         "categories": [
             "Behavior Change/Wellness",
@@ -471,7 +461,7 @@
     },
     {
         "teamName": "Team 16: Clarity",
-        "teamNum": "21",
+        "teamNum": "20",
         "description": "Our desktop app Clarity helps users to have a fine-grained understanding of their productivity throughout the course of the day by recording their activity in frequent intervals and displaying an analysis of time spent.",
         "categories": [
             "Productivity",
@@ -482,7 +472,7 @@
     },
     {
         "teamName": "FairShare",
-        "teamNum": "22",
+        "teamNum": "21",
         "description": "Managing the finances of a campus organization can be very tricky. From uploading every receipt to hunting down reimbursements, it can be difficult to maintain a streamlined and transparent process. That is where FairShare comes in. Our app simplifies group finance and expenses for campus organizations like dorms and fraternities. With a centralized dashboard for organizations and a personalized view for individual members, FairShare provides clarity for groups and their members, allowing for an efficient way to manage finances. Our SmartSplit algorithm ensures fair handling of reimbursements, automatically assigning expenses based on individual preferences to prevent uneven financial burdens and determining which members deserve to be paid back first. Built-in receipt uploading and automated reminders help financial officers and resident assistants effortlessly track and manage documentation. Ultimately, our app reduces administrative bottlenecks, saves valuable time, and ensures financial fairness for all users.",
         "categories": [
             "Finance",
@@ -491,5 +481,15 @@
         ],
         "teamMembers": "Filip Henriksson, Kevin Kwon, Clayton Moore, Joshua Rizo, Allen Yuan",
         "sectionNum": 7
+    },
+    {
+        "teamName": "Big Cheese",
+        "teamNum": "22",
+        "description": "Bred in a lab and raised as snake snacks, a scrappy group of mice dares to dream of something more\u2014freedom, fresh air, and a land overflowing with cheese. Welcome to BIG Cheese, a chaotic first-person, 3D, multiplayer escape game for 2\u20135 players, where you and your rodent crew must outwit your captors, scavenge supplies, and make your way from cage to Cheeseland.\n\nEach mouse has unique traits and upgradeable abilities, and every game session plays out differently as you sneak past baby humans, dodge prowling pets, and avoid the ever-watchful eye of the Scientist. Coordinate, scavenge, and survive together\u2014or get left behind.\n\nWill you become snake food... or legends of Cheeseland?",
+        "categories": [
+            "Games"
+        ],
+        "teamMembers": "Ana Nguyen, Myan Ngo, Thanh Tieu, Thu Le, Nicholas Bui",
+        "sectionNum": 8
     }
 ]
