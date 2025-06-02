@@ -24,7 +24,7 @@
         "sectionNum": 0
     },
     {
-        "teamName": "Kitchen Coders",
+        "teamName": "LoRA Snap",
         "teamNum": "3",
         "description": "LoRA-Snap is an application that gives users the ability to generate and customize images using LoRA models. By abstracting away model training and technical complexity, this interface makes image uploads, fine-tuning, and personal image generation easier than ever before.",
         "categories": [
